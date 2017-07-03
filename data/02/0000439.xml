@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Attic Rms, No Vu</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="439"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="WASHINGTON TALK: BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OFFICE BUILDINGS</classifier>
+        <location class="indexing_service">UNITED STAT</location>
+        <org class="indexing_service">CONGRESS (US)</org>
+        <org class="indexing_service">HOUSE OF REPRESENTATIVES (US)</org>
+        <person class="indexing_service">KING, WAYNE</person>
+        <person class="indexing_service">WEAVER, WARREN JR</person>
+        <person class="indexing_service">HERGER, WALLY JR</person>
+        <person class="indexing_service">KENNEDY, JOSEPH P 2D</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DB1430F931A35752C0A961948260" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Attic Rms, No Vu</hl1>
+      </hedline>
+      <byline class="print_byline">By WAYNE KING and WARREN WEAVER JR.</byline>
+      <byline class="normalized_byline">KING, WAYNE; WEAVER, WARREN JR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: When House members choose their offices before each new Congress, the last suites to be selected are almost always the rooms on the seventh or top floor of the Longworth House Office Building. There are 29 offices there, small and cramped, tucked up under the eaves with their only windows overlooking the building's interior quadrangle.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: When House members choose their offices before each new Congress, the last suites to be selected are almost always the rooms on the seventh or top floor of the Longworth House Office Building. There are 29 offices there, small and cramped, tucked up under the eaves with their only windows overlooking the building's interior quadrangle.</p>
+        <p>When House members choose their offices before each new Congress, the last suites to be selected are almost always the rooms on the seventh or top floor of the Longworth House Office Building. There are 29 offices there, small and cramped, tucked up under the eaves with their only windows overlooking the building's interior quadrangle. When bells ring for a House vote, it's a long elevator ride and walk to the floor.</p>
+        <p>For the 100th Congress that convenes next week, Representative-elect Wally Herger Jr., a freshman Republican from California, had the dubious honor of drawing last choice and thus automatically getting the smallest seventh-floor suite left - in fact, the only one left. Mr. Herger was persuaded that political prejudice had not been involved when he discovered that his next-door neighbor, the lawmaker with next-to-last choice, was Representative-elect Joseph P. Kennedy 2d, Democrat of Massachusetts, one of the most widely publicized members of the incoming Congress.</p>
+        <p>Actually, some lawmakers have coveted rather than avoided the hard-to-reach attic offices. Representative William E. Miller of upstate New York, who was Republican national chairman and the Republicans' 1964 Vice-Presidential candidate, chose to stay on the top floor of the Cannon Building, which could only be reached, then and now, by changing elevators. He told friends he found it more tranquil up there, where fewer of his constituents could find him.</p>
+        <p>WASHINGTON TALK: BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

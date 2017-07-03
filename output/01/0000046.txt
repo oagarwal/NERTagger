@@ -1,0 +1,143 @@
+O,lead
+O,:
+PERSON,pamela therese sebastian
+O,,
+O,a
+O,reporter
+O,for
+O,the
+ORGANIZATION,wall street journal
+O,,
+O,and
+O,dr.
+PERSON,gerald a. ridge
+O,,
+O,an
+O,internist
+O,in
+O,private
+O,practice
+O,in
+LOCATION,bronxville
+O,,
+LOCATION,n.y.
+O,,
+O,were
+O,married
+O,yesterday
+O,at
+ORGANIZATION,all saints episcopal church
+O,in
+LOCATION,manhattan
+O,.
+O,the
+O,rev.
+PERSON,r. dewitt mallary jr.
+O,performed
+O,the
+O,ceremony.pamela
+PERSON,therese sebastian
+O,,
+O,a
+O,reporter
+O,for
+O,the
+ORGANIZATION,wall street journal
+O,,
+O,and
+O,dr.
+PERSON,gerald a. ridge
+O,,
+O,an
+O,internist
+O,in
+O,private
+O,practice
+O,in
+LOCATION,bronxville
+O,,
+LOCATION,n.y.
+O,,
+O,were
+O,married
+O,yesterday
+O,at
+ORGANIZATION,all saints episcopal church
+O,in
+LOCATION,manhattan
+O,.
+O,the
+O,rev.
+PERSON,r. dewitt mallary jr.
+O,performed
+O,the
+O,ceremony.mrs
+O,.
+O,ridge
+O,,
+O,a
+O,graduate
+O,of
+ORGANIZATION,arizona state university
+O,with
+O,a
+O,master
+O,'s
+O,degree
+O,in
+O,journalism
+O,from
+O,the
+ORGANIZATION,university of illinois
+O,,
+O,is
+O,a
+O,daughter
+O,of
+O,the
+O,late
+O,mr.
+O,and
+O,mrs.
+PERSON,victor sebastian
+O,of
+LOCATION,chicago heights
+O,,
+LOCATION,ill.
+O,.
+O,dr.
+PERSON,ridge
+O,,
+O,the
+O,son
+O,of
+O,mr.
+O,and
+O,mrs.
+PERSON,gerald f. ridge
+O,of
+LOCATION,boston
+O,,
+O,graduated
+O,from
+ORGANIZATION,harvard college
+O,and
+O,the
+ORGANIZATION,university of california
+O,at
+ORGANIZATION,san francisco school of medicine
+O,.
+O,his
+O,previous
+O,marriage
+O,ended
+O,in
+O,divorce
+O,,
+O,as
+O,did
+O,that
+O,of
+O,his
+O,bride
+O,.

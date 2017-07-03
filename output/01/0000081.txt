@@ -1,0 +1,176 @@
+O,lead
+O,:
+O,pope
+PERSON,john paul ii
+O,has
+O,named
+O,bishop
+PERSON,norman f. mcfarland
+O,of
+LOCATION,nevada
+O,as
+O,the
+O,new
+O,bishop
+O,of
+O,the
+ORGANIZATION,roman catholic diocese of orange.pope john paul ii
+O,has
+O,named
+O,bishop
+PERSON,norman f. mcfarland
+O,of
+LOCATION,nevada
+O,as
+O,the
+O,new
+O,bishop
+O,of
+O,the
+ORGANIZATION,roman catholic diocese of orange.bishop mcfarland
+O,,
+O,64
+O,years
+O,old
+O,,
+O,who
+O,has
+O,headed
+O,the
+LOCATION,reno-las vegas diocese
+O,for
+O,10
+O,years
+O,,
+O,succeeds
+PERSON,bishop william r. johnson
+O,,
+O,who
+O,died
+O,july
+O,28
+O,.
+O,he
+O,was
+O,the
+O,first
+O,bishop
+O,of
+LOCATION,orange
+O,,
+O,the
+O,second-largest
+O,diocese
+O,in
+LOCATION,california
+O,,
+O,serving
+O,500,000
+O,catholics.the
+PERSON,pope
+O,also
+O,named
+O,three
+O,auxiliary
+O,bishops
+O,for
+O,the
+O,archdiocese
+O,of
+LOCATION,los angeles
+O,on
+O,monday
+O,.
+O,they
+O,are
+O,the
+O,rev.
+PERSON,patrick ziemann
+O,,
+O,45
+O,,
+O,of
+LOCATION,los angeles
+O,;
+O,the
+O,rev.
+PERSON,armando ochoa
+O,,
+O,43
+O,,
+O,of
+LOCATION,los angeles
+O,,
+O,and
+O,the
+O,rev.
+PERSON,p. carl fisher
+O,,
+O,41
+O,,
+O,of
+PERSON,baltimore.father fisher
+O,'s
+O,appointment
+O,makes
+O,him
+O,the
+O,first
+O,black
+O,bishop
+O,in
+O,the
+LOCATION,western united states
+O,.
+O,archbishop
+PERSON,roger mahony
+O,said
+O,he
+O,had
+O,asked
+O,the
+O,pope
+O,to
+O,appoint
+O,a
+O,black
+O,auxiliary
+O,bishop
+O,''
+O,because
+LOCATION,los angeles
+O,has
+O,the
+O,third-highest
+O,overall
+O,black
+O,population
+O,among
+O,all
+O,the
+O,dioceses
+O,and
+O,archdioceses
+O,of
+O,the
+LOCATION,united states
+O,.
+O,''
+O,the
+O,archdiocese
+O,estimates
+O,that
+O,a
+O,million
+O,blacks
+O,live
+O,in
+O,its
+O,boundaries
+O,,
+O,about
+O,50,000
+O,of
+O,them
+ORGANIZATION,catholic
+O,.

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GIFTS TO NEEDIEST RECALL LOVED ONES</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="331"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <org class="indexing_service">NEW YORK TIMES NEEDIEST CASES FUND</org>
+        <person class="indexing_service">ENNIS, THOMAS W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDF1F3EF931A35752C0A961948260" item-length="441" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GIFTS TO NEEDIEST RECALL LOVED ONES</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS W. ENNIS</byline>
+      <byline class="normalized_byline">ENNIS, THOMAS W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Many people took time out from their holiday preparations to send a contribution to the 75th annual appeal of The New York Times Neediest Cases Fund.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Many people took time out from their holiday preparations to send a contribution to the 75th annual appeal of The New York Times Neediest Cases Fund.</p>
+        <p>Many people took time out from their holiday preparations to send a contribution to the 75th annual appeal of The New York Times Neediest Cases Fund.</p>
+        <p>In a letter accompanying a gift of $5,000 in memory of his parents, Meta and Adolf Schmidt, Frederick P. Schmidt of Oradell, N.J., said, ''I can think of no better way to fulfill this tribute than by helping the less fortunate and in need through the medium of the Neediest Cases Fund.''</p>
+        <p>The Neediest Cases Fund affirms ''that indeed we are all our brothers' and sisters' keepers,'' said R. and Mrudulla Gnanadesikan of Chatham, N.J., who gave $150.</p>
+        <p>''My sister and I are each giving up one of our Hanukkah presents and donating the money'' said Joanna Winograd of Farmington, Conn., who with her sister, Eliza, gave $20.</p>
+        <p>Patricia Reiss of Lake Forest, Ill., gave $10, saying ''this is my gift to a dear friend who loves New York City and who, like me, prays for its people.''</p>
+        <p>Barbara L. Cutler of Manhasset, L.I., who gave $100, said: ''Our family has instituted a new way of celebrating the holidays. We give gifts only to the little children. All the adults are sending checks to help the poor.''</p>
+        <p>'' The misery and the poverty amid the glitter of the New York streets during this time of year is a sight to behold. Such brutal extremes,'' said Ninao Popova of Sea Cliff, L.I., who gave $35.</p>
+        <p>Other gifts were received from Denis Collins of Freeport, L.I., $400; Colleen and John F. Sorte of Manhattan, $5,000; the Sponholz family of Saddle River, N.J., $2,060; Pauline Trigere of Manhattan, $250; Peter Falk of Hartsdale, N.Y., $4,000; Susan A. Rosenkranz of Manhattan, $1,000, and Grace and Cyrus R. Vance of Manhattan, $300.</p>
+        <p>Also, the Sutton Area Community in Manhattan, $100; employees of the Bureau of Wastewater Treatment of the New York City Department of Environmental Protection, $245; the faculty and students of the Pascack Hills High School in Montvale, N.J., $650; Mark H. Goodman of Jamaica Plain, Mass., $1,000, and the parasitology department of the New York University Medical Center, $29.</p>
+        <p>In addition, the home health agency staff of Maimonides Medical Center in Brooklyn, $52; the New York School of Interior Design in Manhattan, $50; the Lowell School in Flushing, Queens, $50; the design department of the McCall Pattern Company in Manhattan, $125, and Candlesticks Inc., in Manhattan, $300.</p>
+        <p>Adolph S. Ochs, publisher of The Times from 1896 to 1935, established the Neediest Cases appeal in 1912. Contributions are distributed by eight social-service organizations.  Recorded yesterday: $55,128.47  Previously recorded: 1,988,613.20  Total: $2,043,741.67</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

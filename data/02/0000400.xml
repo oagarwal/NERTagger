@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AUBURN WINS, 16-7; FULLWOOD GAINS 152</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="400"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="FLORIDA CITRUS BOWL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">COLLEGE ATHLETICS</classifier>
+        <org class="indexing_service">AUBURN UNIVERSITY</org>
+        <org class="indexing_service">SOUTHERN CALIFORNIA, UNIVERSITY OF</org>
+        <object.title class="indexing_service">FLORIDA CITRUS BOWL (FOOTBALL GAME)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/College Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDE1031F931A35752C0A961948260" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AUBURN WINS, 16-7; FULLWOOD GAINS 152</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>ORLANDO, Fla., Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Brent Fullwood, the consensus all-America senior tailback, ran for 152 yards and a touchdown today to lead Auburn to a 16-7 victory over Southern Cal in the Florida Citrus Bowl.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Brent Fullwood, the consensus all-America senior tailback, ran for 152 yards and a touchdown today to lead Auburn to a 16-7 victory over Southern Cal in the Florida Citrus Bowl.</p>
+        <p>Brent Fullwood, the consensus all-America senior tailback, ran for 152 yards and a touchdown today to lead Auburn to a 16-7 victory over Southern Cal in the Florida Citrus Bowl.</p>
+        <p>It was the third consecutive defeat for Southern Cal (7-5) and for Coach Ted Tollner, who was dismissed at the end of the regular season following losses to U.C.L.A. and Notre Dame. Tollner finished his four-year stint with a 26-20-1 record.</p>
+        <p>Fullwood, who gained 1,391 yards during the regular season, ran for 52 yards on 10 carries on Auburn's first scoring drive. Then he ran 4 yards for the go-ahead touchdown in the second quarter.</p>
+        <p>After the game he said the effort ''was one of my most satisfying 'cause they were rude.''</p>
+        <p>''They were one of the rudest teams we've ever played,'' Fullwood said. ''Instead of playing ball, they wanted to fight.'' A Most-Valuable Linebacker</p>
+        <p>The Auburn defense, led by the game's most valuable player - Aundray Bruce, a 6-foot-6-inch, 230-pound junior linebacker - forced a fumble to set up the go-ahead touchdown and pressured the Southern Cal quarterback, Rodney Peete, throughout the game.</p>
+        <p>Peete's second-quarter fumble after a hit by Bruce led to Auburn's go-ahead touchdown, and Tracy Rocker caught Peete in the end zone to give Auburn the 9-point lead with 8 minutes 51 seconds to play.</p>
+        <p>Peete, who became the first sophomore to pass for more than 2,000 yards in a season at Southern Cal, suffered four interceptions and was sacked five times, including four by Bruce, who was delighted that the Trojans did not make a special effort to stop him.</p>
+        <p>''They were doubling up on our linemen, so that gave me the opportunity,'' he said. ''They were playing me one-on-one, and I don't feel that anyone can stop me that way.''</p>
+        <p>Auburn, which finished in a four-way tie for second place in the Southeastern Conference, completed the season with a 10-2 record and the 500th victory in the school's history.</p>
+        <p>Peete, who passed for 2,025 yards during the season, completed 12 of 30 for 113 yards.</p>
+        <p>Auburn's Jeff Burger passed for 90 yards and had two passes intercepted in a defensive struggle marked by nine turnovers. #44 Yards Rushing for U.S.C.</p>
+        <p>Auburn limited Southern Cal to 157 yards - 44 rushing on 30 carries -and 10 first downs. Auburn gained 200 of its 290 total yards on 62 rushing attempts, including 28 by Fullwood.</p>
+        <p>Southern Cal's lone touchdown came when a linebacker, Marcus Cotton, returned an inteception 24 yards in the first quarter.</p>
+        <p>Auburn tied at 7-7 after Burger passed 3 yards to a tight end, Walter Reeves, for the touchdown.</p>
+        <p>The Trojans had a golden opportunity for a touchdown late in the game after a blocked punt gave them the ball at the Auburn 7-yard line. However, Auburn stopped Leroy Holt on fourth down from the 1.</p>
+        <p>FLORIDA CITRUS BOWL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

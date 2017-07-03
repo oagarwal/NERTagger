@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Loose Lips and Nuclear Ships</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="303"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="WASHINGTON TALK: PENTAGON"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SHIPS AND SHIPPING</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BUDGETS AND BUDGETING</classifier>
+        <classifier class="indexing_service" type="descriptor">AIRCRAFT CARRIERS</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">NAVY, DEPARTMENT OF THE</org>
+        <person class="indexing_service">CUSHMAN, JOHN H JR</person>
+        <person class="indexing_service">LEHMAN, JOHN F JR (SEC)</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aircraft Carriers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0D9103EF931A35752C0A961948260" item-length="848" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Loose Lips and Nuclear Ships</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN Jr.</byline>
+      <byline class="normalized_byline">CUSHMAN, JOHN H JR</byline>
+      <dateline>WASHINGTON, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two large and costly objects have sailed over the horizon and into the sights of budget-cutters manning their guns for the impending battle over military spending.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two large and costly objects have sailed over the horizon and into the sights of budget-cutters manning their guns for the impending battle over military spending.</p>
+        <p>Two large and costly objects have sailed over the horizon and into the sights of budget-cutters manning their guns for the impending battle over military spending.</p>
+        <p>They are nuclear aircraft carriers, a matched pair, and Navy Secretary John F. Lehman Jr. put them into his budget only recently.</p>
+        <p>Not that he made any attempt to hide them. Senator John W. Warner, a former Navy Secretary himself and a Republican representing Virginia, where such ships are built at Newport News, had hinted that the Federal budget to be unveiled on Monday would include funds for carrier construction. And just before Christmas, the Pentagon spokesman, Robert Sims, breaking the Defense Department's official embargo on premature release of information about the military spending budget, announced spontaneously at a news briefing that funds for the carriers would be included in the budget.</p>
+        <p>Immediately, people in Washington who follow military affairs began to speculate about why the carriers, which will cost about $6.9 billion to build and billions more to equip and operate, appeared from nowhere. A Kind of Fiscal Decoy?  The most popular explanations had nothing to do with the Navy's maritime strategy, which is based largely on the power of action groups centered upon nuclear carriers. Rather, the speculation was that either the Pentagon was doing its bit, however small, to distract attention from the Iran arms affair or the Navy was floating out these two ships as a kind of fiscal decoy. Knowing they would be cut by a stingy Congress, why not ask for two? If both were eliminated, other programs might be untouched; if only one was sunk, all the better.</p>
+        <p>Whether such motives were involved or the Navy simply wanted to speed the arrival of the two new carriers, modeled after the Nimitz, one thing appears certain: The new ships will dominate the debate over the Navy's budget this winter and spring.</p>
+        <p>For two years the Navy, which has been building up its fleet of carriers so as to have 15 of them on station in the 1990's, has put off construction of the new ships.</p>
+        <p>''There are no aircraft carriers in the 1986 budget, or the five-year projection, and no new construction carriers are needed until the early 1990's,'' the service's presentation to Congress said two years ago. Last year, it said: ''Looking ahead, the Navy will have to order replacements for some of its carriers in the early 1990's if it is to sustain a force of 15 into the next century.'' At some point, the carrier Midway would need to be replaced, according to the plan.</p>
+        <p>According to those who oppose the new carriers, now is not the time to seek a big increase in naval spending. Already the Pentagon's anticipated request for $312 billion to be spent in the fiscal year 1988 is expected to be reduced to about the same level as the 1987 budget plus an allowance for inflation. By this arithmetic, the entire military will be lucky to achieve a budget of $300 billion.</p>
+        <p>Some say it would seem unfair to be generous to the Navy while other military forces suffer the effects of a continuing freeze on spending.</p>
+        <p>''I cannot comprehend any rational reason for buying two new aircraft carriers at the expense of Army programs across the board,'' Representative William L. Dickinson, ranking Republican on the House Armed Services Committee, said in a letter to Defense Secretary Caspar W. Weinberger this week. He predicted that if room has to be made for more ships and strategic weapons, the Army's share of the military budget would shrink below one fourth of the funds available.</p>
+        <p>''Funds do not exist to fully equip the current fleet of carriers with the proper numbers of aircraft,'' said Mr. Dickinson, an Alabamian. ''And the costs of aircraft, support forces, and operations for two additional ships would be staggering.''</p>
+        <p>The Navy says that buying two ships for $6.9 billion would be $3 billion cheaper than buying them one by one. And only a tenth of the price would be due in 1987, for parts that would have to be ordered far in advance of launching the ships.</p>
+        <p>But spending that money is likely to become an occasion for another debate over the maritime strategy itself, a strategy that calls, in Mr. Lehman's favorite phrase, for sailing the big ships into harm's way.</p>
+        <p>That strategy is one of the favorite targets of military reformers. 'Plausible? No'</p>
+        <p>''Is it plausible that a 15-carrier fleet would succeed in conducting offensive operations in high threat areas, notably Murmansk and Petropavlovsk, as contemplated in the maritime strategy? No,'' said Joshua M. Epstein, military budget analyst at the Brookings Institution, at a recent forum where he squared off against the Chief of Naval Operations, Adm. Carlisle A. H. Trost.</p>
+        <p>To do the job, Mr. Epstein says, would require at least 26 aircraft carriers, at a cost of $275 billion over a decade. He says it would be more appropriate to cut the number of carriers to 12, obviating the need for the two new ships and saving $30 billion in total costs over 10 years, including expenses for aircraft, escorts, sailors and supplies.</p>
+        <p>WASHINGTON TALK: PENTAGON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

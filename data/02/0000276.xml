@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judgment Calls</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="276"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCOUTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FREE AGENTS (SPORTS)</classifier>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">NEW YORK YANKEES</org>
+        <person class="indexing_service">MILLER, MARVIN</person>
+        <person class="indexing_service">MILLER, MARVIN</person>
+        <person class="indexing_service">STEINBRENNER, GEORGE M 3D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Free Agents (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDE133EF931A35752C0A961948260" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judgment Calls</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Marvin Miller, the former head of baseball's player union, appeared on NBC's ''NFL '86'' telecast last Sunday to discuss the charges of free-agent collusion among owners. Miller suggested, among other things, that George Steinbrenner had simply not been allowed to sign Jack Morris and henceforth should be known as anything but The</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Marvin Miller, the former head of baseball's player union, appeared on NBC's ''NFL '86'' telecast last Sunday to discuss the charges of free-agent collusion among owners. Miller suggested, among other things, that George Steinbrenner had simply not been allowed to sign Jack Morris and henceforth should be known as anything but The</p>
+        <p>Marvin Miller, the former head of baseball's player union, appeared on NBC's ''NFL '86'' telecast last Sunday to discuss the charges of free-agent collusion among owners. Miller suggested, among other things, that George Steinbrenner had simply not been allowed to sign Jack Morris and henceforth should be known as anything but The Boss.</p>
+        <p>Did somebody say ''fighting words''?</p>
+        <p>''Nobody told me what to do,'' Steinbrenner responds. ''I didn't get successful running businesses by being stupid. You get to where you can own a ball club by being a good businessman. And if Marvin Miller can run a business better than me, then he should be rich. And he's not.''</p>
+        <p>In an age of so many changes in baseball, aren't Miller-management relations a somehow comforting reminder of the old days?</p>
+        <p>SCOUTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

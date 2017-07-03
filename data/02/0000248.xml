@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diner's Journal</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="248"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">11 CAFE (NYC RESTAURANT)</org>
+        <org class="indexing_service">LAS DELICIAS DE ROSA MEXICANO (NYC RESTAURANT)</org>
+        <person class="indexing_service">MILLER, BRYAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DE173EF931A35752C0A961948260" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diner's Journal</hl1>
+      </hedline>
+      <byline class="print_byline">By Bryan Miller</byline>
+      <byline class="normalized_byline">MILLER, BRYAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: THE 11 Cafe is a tidy and welcoming little Venezuelan restaurant in the East Village that offers some lusty national specialties at budget prices. Its compact dining room and bar with a dozen colorful tables sports a buoyant tropical decor; a tape deck near the coffee machine pours out big band Ricky Ricardo Latin tunes, which prompt an occasional South American customer to break into a few samba passes.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: THE 11 Cafe is a tidy and welcoming little Venezuelan restaurant in the East Village that offers some lusty national specialties at budget prices. Its compact dining room and bar with a dozen colorful tables sports a buoyant tropical decor; a tape deck near the coffee machine pours out big band Ricky Ricardo Latin tunes, which prompt an occasional South American customer to break into a few samba passes.</p>
+        <p>THE 11 Cafe is a tidy and welcoming little Venezuelan restaurant in the East Village that offers some lusty national specialties at budget prices. Its compact dining room and bar with a dozen colorful tables sports a buoyant tropical decor; a tape deck near the coffee machine pours out big band Ricky Ricardo Latin tunes, which prompt an occasional South American customer to break into a few samba passes.</p>
+        <p>The phone-booth-size kitchen in back produces a wide range of tasty arepas, which refers to thick cornmeal tortillas that are filled with a variety of fillings and eaten as snacks or appetizers ($3.50). I can highly recommend the smoky and succulent roast pork, which is terrific with a sprinkling of the liquid fire they call hot sauce. The shredded beef is delicious, too. The same pork is served as part of an entree, called pabellon de pernil, flanked by white rice, brassy black beans and sauteed sweet plantains ($8.50). Another good choice is called la hallaca, which is essentially a Venezuelan tamale made with cornmeal-encased bits of pork, beef and chicken steamed in banana leaves ($9). Beer, sangria and Spanish wines are available, unless you are in a political frame of mind and opt for the house Cuba libre (rum, Coke and bitters).</p>
+        <p>The 11 Cafe, 170 Second Avenue, at 11th Street, is open Monday through Saturday from 4 P.M. to midnight; Sunday from noon to midnight. Telephone: 982-4924.</p>
+        <p>Speaking of Latin specialties, a new restaurant on the Upper West Side is turning out some authentically savory snacks called taquitos de lechon asado, which are little soft tortillas filled with roast suckling pig. Las Delicias de Rosa Mexicano, a branch of the highly popular Rosa Mexicano on 58th Street at First Avenue, opened on Broadway at 85th Street last week. It took over the space occupied by an Italian restaurant called Ancora.</p>
+        <p>The snazzy multilevel space has been splendidly redone in earthy tones with vibrantly colored tiles. The informal downstairs grill, surrounding a handsome open hearth where suckling pigs are roasted, serves an array of ''antojitos,'' or Mexican-style tapas. The taquitos come three to a plate with a vinegar-based hot sauce and excellent chunky guacamole; if they weren't so expensive ($12) I could eat them all night instead of having dinner in the more formal upstairs room. Most other snacks are in the $6 to $11 range. The succulent pork has a natural affinity with salt-encrusted margaritas -at least I thought so after two deep ones.</p>
+        <p>Las Delicias de Rosa Mexicano is open daily from 5 P.M. to midnight. Telephone: 496-9240.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

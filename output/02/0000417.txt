@@ -1,0 +1,50 @@
+O,lead
+O,:
+O,a
+O,caption
+O,in
+O,business
+O,day
+O,on
+O,monday
+O,,
+O,with
+O,a
+O,picture
+O,of
+O,the
+O,chairman
+O,of
+O,the
+ORGANIZATION,american telephone and telegraph company
+O,,
+O,misnamed
+O,him
+O,.
+O,he
+O,is
+PERSON,james e. olson.a
+O,caption
+O,in
+O,business
+O,day
+O,on
+O,monday
+O,,
+O,with
+O,a
+O,picture
+O,of
+O,the
+O,chairman
+O,of
+O,the
+ORGANIZATION,american telephone and telegraph company
+O,,
+O,misnamed
+O,him
+O,.
+O,he
+O,is
+PERSON,james e. olson
+O,.

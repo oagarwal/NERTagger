@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SYZYGY: WHEN HIGH TIDES RUN VERY HIGH</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="305"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">RAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <location class="indexing_service">EASTERN STATES (US)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD6103EF931A35752C0A961948260" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SYZYGY: WHEN HIGH TIDES RUN VERY HIGH</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: This week syzygy, a rare alignment of the Earth, Sun and Moon, is resulting in increased tidal forces, coincidentally at the time of a major storm on the East Coast.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: This week syzygy, a rare alignment of the Earth, Sun and Moon, is resulting in increased tidal forces, coincidentally at the time of a major storm on the East Coast.</p>
+        <p>This week syzygy, a rare alignment of the Earth, Sun and Moon, is resulting in increased tidal forces, coincidentally at the time of a major storm on the East Coast.</p>
+        <p>Through Sunday, the extra gravitational pull will keep worldwide tides several feet above normal, the most in almost two decades.</p>
+        <p>In addition, on Tuesday the Moon was in perigee, its closest point to the Earth, which further emphasizes the effect of the tides.</p>
+        <p>Most places on the Atlantic Coast from Virginia to Long Island had high tides between 8 P.M. and 1 A.M. last night. The tides will again be high between 9 A.M. and 2 P.M. today. The danger of flooding is reduced today since winds will be from the northwest to the south of the storm center.</p>
+        <p>Today, as the storm moves northeast from the New Jersey coast, the flooding danger is greatest in New England, where strong easterly winds will coincide with high tides in the late morning and early afternoon.</p>
+        <p>In northern New Jersey and southern Long Island, flooding danger will come with the midmorning high tide.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

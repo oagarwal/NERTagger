@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Dead and 5 Hurt As Man Fires Into Bar</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="324"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <location class="indexing_service">LOUISIANA</location>
+        <org class="indexing_service">HUB LOUNGE (BOSSIER CITY, LA)</org>
+        <person class="indexing_service">WILLIAMS, CODY</person>
+        <person class="indexing_service">ADDISON, KIM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Louisiana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4D81E3EF931A35752C0A961948260" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Dead and 5 Hurt As Man Fires Into Bar</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>BOSSIER CITY, La., Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A man with a semiautomatic rifle fired through the doors of a lounge filled with New Year's Eve revelers, killing a woman and wounding five people, three critically, the police said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A man with a semiautomatic rifle fired through the doors of a lounge filled with New Year's Eve revelers, killing a woman and wounding five people, three critically, the police said today.</p>
+        <p>A man with a semiautomatic rifle fired through the doors of a lounge filled with New Year's Eve revelers, killing a woman and wounding five people, three critically, the police said today.</p>
+        <p>The police said the shootings at the Hub Lounge here might have led to more deaths if a quick-thinking manager had not shut the doors after he saw the gunman go to his pickup truck and get the rifle.</p>
+        <p>Cody Williams, a 43-year-old resident of Homer, was arrested about a mile from the lounge and was being held without bond on a charge of first-degree murder in the death of Kim Addison, 26, the police said.</p>
+        <p>The authorities said Mr. Williams had gone to the lounge earlier in the evening and quarreled with a woman described as a former companion who worked there. The woman, who was not identified by the police, was said to be uninjured.</p>
+        <p>The police said the man was later stopped from entering by employees who reported that he was carrying a pistol. He left the bar, then came back minutes later with a .233-caliber rifle and shot through the front doors, Officer John Bacot said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

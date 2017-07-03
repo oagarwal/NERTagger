@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vince Evans Files Suit</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="401"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <org class="indexing_service">CHICAGO BEARS</org>
+        <org class="indexing_service">UNITED STATES FOOTBALL LEAGUE</org>
+        <org class="indexing_service">CHICAGO BLITZ (DEFUNCT)</org>
+        <person class="indexing_service">EVANS, VINCE</person>
+        <person class="indexing_service">EINHORN, EDDIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD1031F931A35752C0A961948260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vince Evans Files Suit</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A former Chicago Bears quarterback, Vince Evans, has filed a lawsuit contending that Eddie Einhorn and the United States Football League failed to honor financial guarantees made when Evans signed with the now-defunct Chicago Blitz. Evans's lawsuit, for $1.3 million, was filed in United States District Court Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A former Chicago Bears quarterback, Vince Evans, has filed a lawsuit contending that Eddie Einhorn and the United States Football League failed to honor financial guarantees made when Evans signed with the now-defunct Chicago Blitz. Evans's lawsuit, for $1.3 million, was filed in United States District Court Wednesday.</p>
+        <p>A former Chicago Bears quarterback, Vince Evans, has filed a lawsuit contending that Eddie Einhorn and the United States Football League failed to honor financial guarantees made when Evans signed with the now-defunct Chicago Blitz. Evans's lawsuit, for $1.3 million, was filed in United States District Court Wednesday. He seeks the enforcement of an arbitrator's Oct. 1 ruling saying Evans was entitled to the money because the Blitz ownership failed to meet the financial guarantees in his contract after the ball club failed. Evans, who lives in Denver, played for the Bears for seven seasons. In 1983, he was asked by the Blitz to defect from the National Football League.</p>
+        <p>SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

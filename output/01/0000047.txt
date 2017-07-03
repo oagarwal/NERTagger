@@ -1,0 +1,145 @@
+O,lead
+O,:
+PERSON,carolyn e. klim
+O,,
+O,the
+O,daughter
+O,of
+PERSON,midge bolton
+O,and
+PERSON,peter klim
+O,,
+O,both
+O,of
+LOCATION,mercerville
+O,,
+LOCATION,n.j.
+O,,
+O,was
+O,married
+O,in
+LOCATION,new brunswick
+O,,
+LOCATION,n.j.
+O,,
+O,last
+O,night
+O,to
+PERSON,robert r. hartel
+O,,
+O,a
+O,son
+O,of
+O,mr.
+O,and
+O,mrs.
+PERSON,otto hartel
+O,of
+LOCATION,new brunswick
+O,.
+O,the
+O,rev.
+PERSON,john carroll
+O,performed
+O,the
+O,roman
+O,catholic
+O,ceremony
+O,in
+O,the
+LOCATION,kirkpatrick chapel
+O,at
+ORGANIZATION,rutgers university
+O,,
+O,of
+O,which
+O,the
+O,bridegroom
+O,is
+O,an
+O,alumnus.carolyn
+PERSON,e. klim
+O,,
+O,the
+O,daughter
+O,of
+PERSON,midge bolton
+O,and
+PERSON,peter klim
+O,,
+O,both
+O,of
+LOCATION,mercerville
+O,,
+LOCATION,n.j.
+O,,
+O,was
+O,married
+O,in
+LOCATION,new brunswick
+O,,
+LOCATION,n.j.
+O,,
+O,last
+O,night
+O,to
+PERSON,robert r. hartel
+O,,
+O,a
+O,son
+O,of
+O,mr.
+O,and
+O,mrs.
+PERSON,otto hartel
+O,of
+LOCATION,new brunswick
+O,.
+O,the
+O,rev.
+PERSON,john carroll
+O,performed
+O,the
+O,roman
+O,catholic
+O,ceremony
+O,in
+O,the
+LOCATION,kirkpatrick chapel
+O,at
+ORGANIZATION,rutgers university
+O,,
+O,of
+O,which
+O,the
+O,bridegroom
+O,is
+O,an
+O,alumnus
+O,.
+O,mrs.
+PERSON,hartel
+O,is
+O,a
+O,marketing
+O,manager
+O,for
+O,the
+ORGANIZATION,american telephone and telegraph company
+O,in
+LOCATION,parsippany
+O,,
+LOCATION,n.j.
+O,.
+O,her
+O,husband
+O,is
+O,an
+O,account
+O,representative
+O,for
+O,the
+ORGANIZATION,ncr corporation
+O,in
+LOCATION,newark
+O,.

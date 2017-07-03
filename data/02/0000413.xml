@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let's Scrap That Indefensible Board of Estimate</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="413"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">ESTIMATE, BOARD OF</org>
+        <person class="indexing_service">COSTIKYAN, EDWARD N</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DF1E31F931A35752C0A961948260" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let's Scrap That Indefensible Board of Estimate</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Edward N. Costikyan's defense of the New York City Board of Estimate is striking not only because of the short shrift he gives to the first principle of constitutional democracy -''one man, one vote'' - but also for the political self-interest that accounts for it (Op-Ed, Dec. 17).</p>
+        <p>Essentially, he argues for protecting the political interests of boroughs, actually of Manhattan, rather than the rights of citizens. In other words, ''one borough, one vote,'' even if the one borough has one-third as many people as another borough, or less than one-tenth. Two Federal courts have found this proposition indefensible.</p>
+        <p>Mr. Costikyan would stand the Constitution on its head to keep the board's ''citywide perspective,'' while acknowledging the board practice of ''deferring to the views of the borough president most affected by the issue under consideration.'' This, with the board's archaic structure, guarantees ''that the interests of the smaller boroughs will not be overridden.''</p>
+        <p>Mr. Costikyan, a Manhattan lawyer long active in the borough's politics, seems concerned to protect the interests of Manhattan, which he concedes is now one of the smaller boroughs. He fears that a more democratic arrangement than the present board would give Brooklyn or Queens three times as much power as Manhattan. And these two boroughs combined would have three times the clout of Mr. Costikyan's Manhattan and its traditional ally, the Bronx.</p>
+        <p>Thus, Mr. Costikyan worries that ''a reconstituted board would be tempted to increase commercial real estate taxes in Manhattan.'' This question, which goes to the heart of New York politics, is the kind of issue that is now decided by the Board of Estimate, but without giving all New Yorkers an equal voice. The Board of Estimate is, as most informed observers know, the centerpiece of municipal corruption because its power to decide such questions is unprincipled and unchecked.</p>
+        <p>Power does indeed corrupt, and first of all it corrupts the logic of those it benefits. FRANKLIN J. HAVLICEK  New York, Dec. 19, 1986  The writer, an adjunct associate proessor at Columbia University, is a former adviser to Mayor Koch.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

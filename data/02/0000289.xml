@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bystanders Gain in Robbery</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="289"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ROBBERIES AND THEFTS</classifier>
+        <location class="indexing_service">CHICAGO (ILL)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0D8133EF931A35752C0A961948260" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bystanders Gain in Robbery</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>CHICAGO, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Passersby scooped up flying cash as a robber who held up a convenience store dashed away from the police, and they then walked away with the stolen money, officials say. ''It was just like Christmas again,'' Officer James Paoletti said Wednesday. Maurice G. Williams, 20 years old, was charged with robbing an all-night store Tuesday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Passersby scooped up flying cash as a robber who held up a convenience store dashed away from the police, and they then walked away with the stolen money, officials say. ''It was just like Christmas again,'' Officer James Paoletti said Wednesday. Maurice G. Williams, 20 years old, was charged with robbing an all-night store Tuesday.</p>
+        <p>Passersby scooped up flying cash as a robber who held up a convenience store dashed away from the police, and they then walked away with the stolen money, officials say. ''It was just like Christmas again,'' Officer James Paoletti said Wednesday. Maurice G. Williams, 20 years old, was charged with robbing an all-night store Tuesday. The police chased him six blocks, Officer Paoletti said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

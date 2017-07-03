@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FLORIDA HOSPITALS CURTAIL SERVICES AS DOCTORS PROTEST INSURANCE COSTS</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="283"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="indexing_service" type="descriptor">SHUTDOWNS (INSTITUTIONAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">DOCTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">MALPRACTICE INSURANCE</classifier>
+        <classifier class="indexing_service" type="descriptor">RATES</classifier>
+        <classifier class="indexing_service" type="descriptor">EMERGENCY MEDICAL TREATMENT</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">DADE COUNTY (FLA)</location>
+        <location class="indexing_service">FLORIDA</location>
+        <org class="indexing_service">HIALEAH HOSPITAL (FLA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Malpractice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Malpractice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DC133EF931A35752C0A961948260" item-length="439" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FLORIDA HOSPITALS CURTAIL SERVICES AS DOCTORS PROTEST INSURANCE COSTS</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>MIAMI, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: One hospital closed its emergency room and at least seven of Dade County's 40 hospitals curtailed emergency services today as some doctors stayed away to protest malpractice insurance costs.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: One hospital closed its emergency room and at least seven of Dade County's 40 hospitals curtailed emergency services today as some doctors stayed away to protest malpractice insurance costs.</p>
+        <p>One hospital closed its emergency room and at least seven of Dade County's 40 hospitals curtailed emergency services today as some doctors stayed away to protest malpractice insurance costs.</p>
+        <p>''As of yet, there is no real crisis,'' said Fire Chief Andrew Frosch, duty officer at the Dade County Office of Emergency Management, which was staffed for the holidays as a precaution against medical emergencies.</p>
+        <p>Hialeah Hospital closed its emergency room at 7 P.M. New Year's Eve. A few other hospitals had already limited the types of emergency patients they would serve, and others announced curtailments late Wednesday.</p>
+        <p>In addition, seven hospitals said their services would be limited. Most said they could not accept people with head or chest wounds because thoracic and neurological surgeons were not available. 'Not a Crisis'</p>
+        <p>But Lynn Aspinall, a spokesman for the Metro-Dade Fire Department, said: ''There's close to 40 hospitals in Dade County. That does not a crisis make, when a couple of hospitals close their emergency rooms.''</p>
+        <p>She said the affected hospitals handled a fraction of the county's emergency cases.</p>
+        <p>Officials said that the protest was apparently not an organized effort and that the number of hospitals and doctors involved was constantly changing.</p>
+        <p>The doctors are protesting increases of 25 to 40 percent in insurance rates. They also oppose a law that sets new minimum amounts for insurance coverage.</p>
+        <p>The Florida Medical Association estimates neurosurgeons in Dade and Broward counties will pay a record of $143,000 to $176,366 a year for policies that pay a maximum of $1 million for each claim, up to $3 million a year.</p>
+        <p>Under the Malpractice Reform Act that took effect today, Florida's 29,600 licensed doctors must either carry malpractice insurance of $250,000 for those who treat hospital patients and $100,000 for those who do not or must inform patients of their decision to do without.</p>
+        <p>Under the new law, if an uninsured doctor loses a malpractice case and cannot pay the award, the physician could be prevented from practicing for up to five years.</p>
+        <p>Dade County legislators have scheduled hearings Jan. 12 on the insurance crisis.</p>
+        <p>State Representative Art Simon, who recently sponsored malpractice legislation, said the doctors ''seem to feel that if they withhold their services the Legislature will wave a magic wand to solve the problem of rising insurance rates.''</p>
+        <p>He said that doctors had good reason to complain about skyrocketing malpractice insurance rates but added that the answer ''is not to withhold their services from people desperately in need of medical care.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

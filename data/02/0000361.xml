@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jersey Audit Faults Motor Vehicles Unit</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="361"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="METRO DATELINES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <classifier class="indexing_service" type="descriptor">SHORTAGES</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <org class="indexing_service">MOTOR VEHICLES, DEPARTMENT OF (NJ)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DC1431F931A35752C0A961948260" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jersey Audit Faults Motor Vehicles Unit</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>TRENTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Fiscal mismanagement, health and security risks and staff shortages are widespread in the New Jersey Division of Motor Vehicles, according to a report by the Office of the State Auditor.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Fiscal mismanagement, health and security risks and staff shortages are widespread in the New Jersey Division of Motor Vehicles, according to a report by the Office of the State Auditor.</p>
+        <p>Fiscal mismanagement, health and security risks and staff shortages are widespread in the New Jersey Division of Motor Vehicles, according to a report by the Office of the State Auditor.</p>
+        <p>''There is a lack of assurance that records are accurately maintained, that transactions are properly entered into the system and that all revenues are collected and remitted to the state,'' the 17-page report said.</p>
+        <p>Spokesmen for the Attorney General's office, which oversees the department, could not be reached for comment. But in a formal response contained in the report, Attorney General W. Cary Edwards and the department director, Glenn Paulsen, wrote they are making progress to correct the problems.</p>
+        <p>The department has been criticized in the past because of long lines at its offices, computer malfunctions, paperwork backlogs and impolite workers.</p>
+        <p>The auditor's report found that the agency failed to reconcile its revenue documents with those of the Treasury Department, update inventory records and deposit cash receipts in a timely manner.</p>
+        <p>Because of staff shortages, the report said, the department failed to complete required field audits and has ''haphazardly'' stored certain documents.</p>
+        <p>METRO DATELINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

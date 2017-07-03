@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>They're A-1 in I-AA</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="279"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCOUTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DD133EF931A35752C0A961948260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>They're A-1 in I-AA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Last week in this space was a listing of the best cumulative records over the years among all schools now playing Division I-A football. Then somebody wanted to know whether any of the Ivy League colleges figured in a similar ranking. Sure. The top records in Division I-AA:</p>
+        <p>W-L-T</p>
+        <p>Pct.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Last week in this space was a listing of the best cumulative records over the years among all schools now playing Division I-A football. Then somebody wanted to know whether any of the Ivy League colleges figured in a similar ranking. Sure. The top records in Division I-AA:</p>
+        <p>W-L-T</p>
+        <p>Pct.</p>
+        <p>Last week in this space was a listing of the best cumulative records over the years among all schools now playing Division I-A football. Then somebody wanted to know whether any of the Ivy League colleges figured in a similar ranking. Sure. The top records in Division I-AA:</p>
+        <p>W-L-T</p>
+        <p>Pct.</p>
+        <p>Tennessee State</p>
+        <p>393-106-27</p>
+        <p>.772</p>
+        <p>Yale</p>
+        <p>736-232-43</p>
+        <p>746</p>
+        <p>Grambling</p>
+        <p>336-113-15</p>
+        <p>.740</p>
+        <p>Florida A&amp;M</p>
+        <p>377-135-16</p>
+        <p>.729</p>
+        <p>Princeton</p>
+        <p>660-266-48</p>
+        <p>.702</p>
+        <p>Harvard</p>
+        <p>671-283-49</p>
+        <p>.693</p>
+        <p>SCOUTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

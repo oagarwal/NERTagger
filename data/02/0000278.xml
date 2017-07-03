@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Lieu of the Lulu</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="278"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">LEGISLATURES</classifier>
+        <classifier class="indexing_service" type="descriptor">WAGES AND SALARIES</classifier>
+        <location class="indexing_service">NEW YORK STATE</location>
+        <person class="indexing_service">CUOMO, MARIO M (GOV)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DD133EF931A35752C0A961948260" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Lieu of the Lulu</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Officially, New York State Senators and Assemblymen earn $43,000 a year, but their actual pay amounts to thousands more. Instead of perpetuating this deception, the Governor could act to end it.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Officially, New York State Senators and Assemblymen earn $43,000 a year, but their actual pay amounts to thousands more. Instead of perpetuating this deception, the Governor could act to end it.</p>
+        <p>Officially, New York State Senators and Assemblymen earn $43,000 a year, but their actual pay amounts to thousands more. Instead of perpetuating this deception, the Governor could act to end it.</p>
+        <p>In 1986, of the Legislature's 211 members, 184 held leadership titles carrying extra stipends known as ''lulus.'' The term once referred to payments ''in lieu'' of expense money. But today it refers to income supplements that range from $6,500 for the ranking minority members of various committees to $30,000 paid to the Senate Majority Leader and the Assembly Speaker.</p>
+        <p>A bill passed during last week's special legislative session and signed by Governor Cuomo adds 11 new leadership posts. That leaves only 16 members lulu-less.</p>
+        <p>The extra stipends were originally intended to recognize a handful of legislative leaders' extraordinary time commitments. They have evolved into a system of backdoor compensation that breeds public cynicism. If the job of a legislator has become more demanding, the proper response is a pay increase, accompanied by strict limits on outside income.</p>
+        <p>Defenders of the lulu system contend that it provides leaders flexibility to steer less-talented senior members away from top committee assignments by offering titles carrying handsome stipends but little substantive authority. That amounts to buying off incompetents - an unseemly argument for a public expenditure. The practice also produces a proliferation of lightweight committees.</p>
+        <p>Governor Cuomo could address the issue by appointing an independent salary commission, modeled on the one that recently recommended raises for Federal judges, Cabinet officers and other officials. It could explore the range of issues related to legislators' pay and provide insulation against the criticism that automatically accompanies even justifiable raises for public officials. With such a commission, the next legislative term could see the last of the lulu.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BUSINESS DIGEST: FRIDAY, JANUARY 2, 1987</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="392"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <object.title class="indexing_service">BUSINESS DIGEST (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6D61331F931A35752C0A961948260" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BUSINESS DIGEST: FRIDAY, JANUARY 2, 1987</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: International</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: International</p>
+        <p>International</p>
+        <p>The Commerce Department has approved lower prices for Japanese computer chips sold in the United States, according to analysts. The new minimums allow Japanese manufacturers to slash prices as much as 40.9 percent on some types of chips without violating anti-dumping rules.  [ Page D1. ]  A revival of inflation in Brazil, after a nine-month price freeze, has disrupted the economy and threatens to complicate negotiations on the restructuring of Brazil's gigantic foreign debt. The country's once popular Finance Minister, the architect of the freeze, may soon be replaced.  [ D1. ]  Europeans are angered by the trade conflict with the United States. The closing of Spanish markets to American grain producers and the retaliatory duties on some European Community products announced this week are only the most recent exchanges in an increasingly strident debate. [ D2. ]  The Economy Manufacturers of semiconductors should have a bright year, the Commerce Department predicted, and mutual funds will grow faster than any other service industry. Over all, the industrial segment of the economy will expand on a broad but shallow front, the department forecast. But shipments of electrical turbines, metal-cutting machines and paper board could plummet.  [ D1. ]  Companies The settlement of claims by the families of four astronauts killed in the shuttle explosion last year has postponed a public dispute between the Government and Morton Thiokol over responsibility for the disaster. Thiokol manufactured the booster rockets that caused the accident.  [ D3. ]  Today's Columns The medical supplies industry faces a good year, according to an investment advisory service. The industry's exports should benefit from the weaker dollar, and the shift to more health care at home will reward the developers of innovative products. Market Place.  [ D4. ]  The United States is hardly bluffing in its tariff dispute with Western Europe. The record trade deficit of November has shaken Government and private economists who had hoped for a steady improvement. If the Administration does not act quickly, it may lose the initiative to the Democrats in the new Congress. Leonard Silk. Economic Scene.  [ D2. ]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>1 Killed and 9 Hurt In a Collision on L.I.</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="360"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="METRO DATELINES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ROADS AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <location class="indexing_service">EAST ROCKAWAY (NY)</location>
+        <person class="indexing_service">SCHRECK, BARBARA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DD1431F931A35752C0A961948260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>1 Killed and 9 Hurt In a Collision on L.I.</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>EAST ROCKAWAY</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A 17-year-old girl from Queens was killed and nine other people were injured yesterday in an early-morning two-car accident here, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A 17-year-old girl from Queens was killed and nine other people were injured yesterday in an early-morning two-car accident here, the police said.</p>
+        <p>A 17-year-old girl from Queens was killed and nine other people were injured yesterday in an early-morning two-car accident here, the police said.</p>
+        <p>Nassau County Police Officer Robert Wheeler said the dead girl, Barbara Schreck, of Woodside, Queens, was riding in a car driven by Ricardo Marquez, 18, also of Corona.</p>
+        <p>His car was traveling south on Murcock Avenue when he tried to turn left onto Main Street at about 6:30 A.M. and collided with a car that was westbound on Main Street.</p>
+        <p>Mr. Marquez was taken to South Nassau Hospital with severe lacerations to his head. Three other passengers riding in the car also suffered facial lacerations.</p>
+        <p>The driver of the other car, David Cuellar, 24, of Lynbrook, L.I., was taken to Memorial Hospital with head lacerations. Four passengers in his car also were injured.</p>
+        <p>Officer Wheeler said no charges were filed.</p>
+        <p>METRO DATELINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SAFETY AGENCY TO INVESTIGATE REPORTS OF DEFECTS IN SOME G.M. CARS</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="370"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <org class="indexing_service">GENERAL MOTORS CORP</org>
+        <org class="indexing_service">NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DD1331F931A35752C0A961948260" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SAFETY AGENCY TO INVESTIGATE REPORTS OF DEFECTS IN SOME G.M. CARS</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The National Highway Traffic Safety Administration has begun two investigations into reports of problems with power steering and unintended acceleration in some General Motors automobiles with front-wheel drive.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The National Highway Traffic Safety Administration has begun two investigations into reports of problems with power steering and unintended acceleration in some General Motors automobiles with front-wheel drive.</p>
+        <p>The National Highway Traffic Safety Administration has begun two investigations into reports of problems with power steering and unintended acceleration in some General Motors automobiles with front-wheel drive.</p>
+        <p>The agency will look into charges of loss of power steering in G.M.'s X, A and J lines of cars. The problem reportedly occurs in cold weather or before the engine is properly warmed up. The inquiry will cover six million automobiles in the 1980 to 1984 model years.</p>
+        <p>The agency will also investigate charges of engine surging or unintended acceleration, covering about 2.3 million J cars from 1982 to 1985.</p>
+        <p>The actions were disclosed by the Center for Auto Safety, a consumer group based in Washington, which had filed a petition seeking the inquiry. Notice of the investigations was provided in brief letters to the organization.</p>
+        <p>David Hudgens, a spokesman for General Motors, said Tuesday that the company would cooperate with the Government in both matters. ''But just because the Government opens an investigation does not mean there is a defect,'' he added. ''In fact, many Government investigations are opened and closed without any finding of defect.'' A Matter of Inconvenience</p>
+        <p>Mr. Hudgens said the company did not consider the charges concerning power steering flaws to be a safety issue, saying it was more a matter of incovenience because drivers still had manual steering and the problem apparently did not occur when the engine was warm.</p>
+        <p>The J cars are the Chevrolet Cavalier, Buick Skyhawk, Oldsmobile Firenza, Pontiac 2000/Sunbird and Cadillac Cimarron. The A cars are the Chevrolet Celebrity, Buick Century, Oldsmobile Cutlass Ciera and Pontiac 6000. The X-cars are the Chevrolet Citation, Buick Skylark, Oldsmobile Omega and Pontiac Phoenix.</p>
+        <p>Last February the highway safety agency, which is part of the Transportation Department, ended a low-level investigation into reports of sudden acceleration on some J cars. The agency said at the time that it found no evidence of defects.</p>
+        <p>The agency had also investigated charges of power-steering problems in G.M.'s 1980 and 1981 X cars, but it ended the investigation when it could not find a defect and concluded the problems were ''not significantly safety-related.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

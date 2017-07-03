@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nymex Forced To Open Today</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="339"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">FUTURES TRADING</classifier>
+        <classifier class="indexing_service" type="descriptor">OPTIONS TRADING</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <org class="indexing_service">NEW YORK MERCANTILE EXCHANGE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEED91F3EF931A35752C0A961948260" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nymex Forced To Open Today</hl1>
+      </hedline>
+      <byline class="print_byline">By Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The New York Mercantile Exchange said that it would have to open today because of an oversight in the formulation of its new options contract on crude oil futures.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The New York Mercantile Exchange said that it would have to open today because of an oversight in the formulation of its new options contract on crude oil futures.</p>
+        <p>The New York Mercantile Exchange said that it would have to open today because of an oversight in the formulation of its new options contract on crude oil futures.</p>
+        <p>Patrick Thompson, the general counsel of the Nymex, said on Wednesday that the exchange had been scheduled to be closed today, but that language in the options contract dictates that options must expire on the first Friday of the month.</p>
+        <p>Crude oil options, which give traders the right but not the obligation to buy or sell crude oil futures, have been traded on Nymex since November. The February options contract, which expires Friday, was the first options contract to trade.</p>
+        <p>Mr. Thompson said the exchange had submitted new language to the Commodity Futures Trading Commission that would give the exchange flexibility in setting expiration dates.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>KOHL'S WRONG TAPE, AND THE CABBAGE PUN</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="304"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW YEAR</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <location class="indexing_service">WEST GERMANY</location>
+        <person class="indexing_service">TAGLIABUE, JOHN</person>
+        <person class="indexing_service">KOHL, HELMUT (CHANCELLOR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Year</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4D6103EF931A35752C0A961948260" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>KOHL'S WRONG TAPE, AND THE CABBAGE PUN</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN TAGLIABUE, Special to the New York Times</byline>
+      <byline class="normalized_byline">TAGLIABUE, JOHN</byline>
+      <dateline>BONN, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: West German television executives were caught up in a political controversy today after they inadvertently broadcast the wrong tape of the annual New Year's address to the nation by Chancellor Helmut Kohl.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: West German television executives were caught up in a political controversy today after they inadvertently broadcast the wrong tape of the annual New Year's address to the nation by Chancellor Helmut Kohl.</p>
+        <p>West German television executives were caught up in a political controversy today after they inadvertently broadcast the wrong tape of the annual New Year's address to the nation by Chancellor Helmut Kohl.</p>
+        <p>The tape the ARD network aired Wednesday night was made in 1985 and was shown last year.</p>
+        <p>The country's two major state-controlled stations televised the Chancellor's address simultaneously. But startled and irate viewers bombarded the stations with phone calls asking why Mr. Kohl was wearing different suits on each channel.</p>
+        <p>A spokesman for the opposition Social Democratic party, Gunter Verheugen, sought to play down the mix-up, noting that Mr. Kohl in his 1987 address had ''talked past people's problems just the way he did last year.'' Cabbage Patch Game</p>
+        <p>Norbert Kostede, a spokesman for the Green Party, playing on the name Kohl, which means cabbage in German, said, ''Warmed-over Kohl was just as tasty and nutritious.''</p>
+        <p>Government officials, however, were not laughing. Mr. Kohl's spokesman, Friedhelm Ost, accused the station's directors of seeking to embarrass the Chancellor by ''intentional sabotage'' in the middle of the campaign for national elections Jan. 25, and demanded a full investigation.</p>
+        <p>Station executives, in a statement, said the confusion was the result of unclear markings on the videotapes. 'No Intentional Mix-up'</p>
+        <p>''There are no indications of an intentional mix-up,'' the station's executives said.</p>
+        <p>But they said a further investigation was needed to determine why last year's tape had been taken from archives and brought to the studio just in time for this year's broadcast.</p>
+        <p>The station broadcast Mr. Kohl's address for 1987 tonight.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Economic Crisis Burdened Nakasone</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="344"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="BUSINESS PEOPLE: 1986'S NEWSMAKERS IN FINANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ECONOMIC CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">CURRENCY</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL MONETARY SYSTEM</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">BALANCE OF PAYMENTS AND TRADE</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <location class="indexing_service">JAPAN</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">NAKASONE, YASUHIRO (PRIME MIN)</person>
+        <object.title class="indexing_service">BUSINESS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DB1631F931A35752C0A961948260" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Economic Crisis Burdened Nakasone</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Trying to make workers work less and savers spend more has put Yasuhiro Nakasone, the Japanese Prime Minister, in an unenviable position. He has proposed measures to those effects in a move to revive Japan's economy, which has been battered by a 40 percent rise in the value of the yen, and to appease the United States, which blames its ally for its staggering trade deficit.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Trying to make workers work less and savers spend more has put Yasuhiro Nakasone, the Japanese Prime Minister, in an unenviable position. He has proposed measures to those effects in a move to revive Japan's economy, which has been battered by a 40 percent rise in the value of the yen, and to appease the United States, which blames its ally for its staggering trade deficit.</p>
+        <p>Trying to make workers work less and savers spend more has put Yasuhiro Nakasone, the Japanese Prime Minister, in an unenviable position. He has proposed measures to those effects in a move to revive Japan's economy, which has been battered by a 40 percent rise in the value of the yen, and to appease the United States, which blames its ally for its staggering trade deficit.</p>
+        <p>Japanese manufacturers face the worst slump in more than a decade. Layoffs - almost unheard-of in Japan - have begun, and corporate profits are sagging. Meanwhile, United States officials spent much of 1986 pleading with Mr. Nakasone to encourage domestic growth, with the hope of transforming the Japanese from exporters into importers.</p>
+        <p>By using the problems to his advantage, Mr. Nakasone won re-election in July, and in another shrewd move he named his chief party rival, Kiichi Miyazawi, finance minister.</p>
+        <p>Mr. Nakasone has forged a bilateral agreement with the United States, pushed for a cut in the discount rate and pressed companies to give workers wage increases, two-day weekends and longer vacations. His tax plan, moreover, ended tax-free savings accounts.</p>
+        <p>But while some observers view his policies as extreme steps, others describe them as window dressing aimed at forestalling protectionist legislation in the United States. This latter view gained credence when Japan recently announced its budget, which provided for the smallest spending increase in three decades.</p>
+        <p>BUSINESS PEOPLE: 1986'S NEWSMAKERS IN FINANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

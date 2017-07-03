@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Popular Science Plan</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="422"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="ADVERTISING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MAGAZINES</classifier>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">BOATS AND BOATING</classifier>
+        <classifier class="indexing_service" type="descriptor">FISHING, SPORT</classifier>
+        <classifier class="indexing_service" type="descriptor">CAMPS AND CAMPING</classifier>
+        <org class="indexing_service">POPULAR SCIENCE (PUB)</org>
+        <org class="indexing_service">TIMES MIRROR CO</org>
+        <person class="indexing_service">BASLER, BARBARA</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Boating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Fishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Sport</classifier>
+        <classifier class="online_producer" type="general_descriptor">Camps and Camping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boats and Boating</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D91E31F931A35752C0A961948260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Popular Science Plan</hl1>
+      </hedline>
+      <byline class="print_byline">By Barbara Basler</byline>
+      <byline class="normalized_byline">BASLER, BARBARA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Popular Science, a Times Mirror magazine, is planning a special ad supplement, the Great Outdoors, in its May issue. The supplement will cover boating, fishing and camping. The issue will be distributed to a total subscription circulation of 825,000. The advertising closing date is Feb. 19.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Popular Science, a Times Mirror magazine, is planning a special ad supplement, the Great Outdoors, in its May issue. The supplement will cover boating, fishing and camping. The issue will be distributed to a total subscription circulation of 825,000. The advertising closing date is Feb. 19.</p>
+        <p>Popular Science, a Times Mirror magazine, is planning a special ad supplement, the Great Outdoors, in its May issue. The supplement will cover boating, fishing and camping. The issue will be distributed to a total subscription circulation of 825,000. The advertising closing date is Feb. 19.</p>
+        <p>ADVERTISING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

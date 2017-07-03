@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Goodyear Sale To AZP Unit</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="273"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">GOODYEAR TIRE &amp; RUBBER CO</org>
+        <org class="indexing_service">GOODYEAR FARMS</org>
+        <org class="indexing_service">SUNCOR INC</org>
+        <org class="indexing_service">AZP GROUP INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD7123EF931A35752C0A961948260" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Goodyear Sale To AZP Unit</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>PHOENIX, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Suncor Development Company, a unit of AZP Group Inc., said it had bought the assets of Goodyear Farms, Litchfield Park from the Goodyear Tire and Rubber Company for $221 million. Goodyear said the move was part of its restructuring plan.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Suncor Development Company, a unit of AZP Group Inc., said it had bought the assets of Goodyear Farms, Litchfield Park from the Goodyear Tire and Rubber Company for $221 million. Goodyear said the move was part of its restructuring plan.</p>
+        <p>The Suncor Development Company, a unit of AZP Group Inc., said it had bought the assets of Goodyear Farms, Litchfield Park from the Goodyear Tire and Rubber Company for $221 million. Goodyear said the move was part of its restructuring plan.</p>
+        <p>The properties include Wigwam Resort, three adjacent golf courses and about 12,000 acres of land.</p>
+        <p>Suncor said the acquisition would be financed entirely by AZP from the sale of common stock through the AZP dividend reinvestment plan and bank financing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

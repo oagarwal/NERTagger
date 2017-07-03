@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Found Lying On Subway Tracks</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="341"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="METRO DATELINES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRANSIT SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBWAYS</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <location class="indexing_service">QUEENS (NYC)</location>
+        <person class="indexing_service">WEBB, DAVE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D71F3EF931A35752C0A961948260" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Found Lying On Subway Tracks</hl1>
+      </hedline>
+      <dateline>JAMAICA</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The transit police are investigating how a man with a fractured skull came to be lying on the subway tracks of a Queens station, a spokesman said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The transit police are investigating how a man with a fractured skull came to be lying on the subway tracks of a Queens station, a spokesman said yesterday.</p>
+        <p>The transit police are investigating how a man with a fractured skull came to be lying on the subway tracks of a Queens station, a spokesman said yesterday.</p>
+        <p>The man, Dave Webb, 26 years old, of 130-32 Laurelton Parkway in the Rosedale section, was taken to the Queens Hospital Center, where he was listed in critical condition yesterday, said Elaine Likari, a hospital administrator.</p>
+        <p>A flagman at the 179th Street Station at Hillside Avenue saw Mr. Webb lying on the road bed at about 5:15 A.M. and tried to warn an incoming E train that he was there, Mr. Cunningham said.</p>
+        <p>Although the train was able to slow down, one car passed over him without striking him, he said.</p>
+        <p>''We have not been able to determine how he sustained his injuries, whether he was hit by a previous train or involved in an altercation,'' said a Transit Authority spokesman, John Cunningham.</p>
+        <p>In addition to the fractured skull, the victim also had a broken arm and lacerations, he said.</p>
+        <p>METRO DATELINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

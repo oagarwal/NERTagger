@@ -1,0 +1,80 @@
+O,lead
+O,:
+O,the
+O,fiddlers
+PERSON,paddy reynold
+O,and
+PERSON,andy mcgann
+O,will
+O,play
+O,irish
+O,music
+O,tomorrow
+O,at
+O,the
+ORGANIZATION,eagle tavern
+O,,
+O,355
+O,west
+O,14th
+O,street
+O,-lrb-
+O,924-0275
+O,-rrb-
+O,.
+O,sets
+O,are
+O,at
+O,9
+O,and
+O,10:30
+O,p.m.
+O,;
+O,tickets
+O,are
+O,$
+O,5
+O,.
+O,information
+O,:
+O,-lrb-212-rrb- 475-7092
+O,.
+O,the
+O,fiddlers
+PERSON,paddy reynold
+O,and
+PERSON,andy mcgann
+O,will
+O,play
+O,irish
+O,music
+O,tomorrow
+O,at
+O,the
+ORGANIZATION,eagle tavern
+O,,
+O,355
+O,west
+O,14th
+O,street
+O,-lrb-
+O,924-0275
+O,-rrb-
+O,.
+O,sets
+O,are
+O,at
+O,9
+O,and
+O,10:30
+O,p.m.
+O,;
+O,tickets
+O,are
+O,$
+O,5
+O,.
+O,information
+O,:
+O,-lrb-212-rrb- 475-7092
+O,.

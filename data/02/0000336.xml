@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clausen Vows Fight by Bank</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="336"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">BANKAMERICA CORP</org>
+        <org class="indexing_service">FIRST INTERSTATE BANCORP</org>
+        <person class="indexing_service">CLAUSEN, A W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DA1F3EF931A35752C0A961948260" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clausen Vows Fight by Bank</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>SAN FRANCISCO, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A. W. Clausen, the chairman and chief executive of the BankAmerica Corporation, said Wednesday that the bank was ready to fight for its independence against a takeover bid by the First Interstate Bancorp.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A. W. Clausen, the chairman and chief executive of the BankAmerica Corporation, said Wednesday that the bank was ready to fight for its independence against a takeover bid by the First Interstate Bancorp.</p>
+        <p>A. W. Clausen, the chairman and chief executive of the BankAmerica Corporation, said Wednesday that the bank was ready to fight for its independence against a takeover bid by the First Interstate Bancorp.</p>
+        <p>''None of us seeks a fight, but if one is forced upon us, we will be found ready, willing and able,'' Mr. Clausen said in a year-end message to BankAmerica employees.</p>
+        <p>BankAmerica's board is expected to take a stand on the merger at its next meeting, scheduled for Monday. While Mr. Clausen said his opinion against the merger was his own and not necessarily that of the board, his words were another indication that the board was likely to reject the offer and authorize stronger anti-takeover actions.</p>
+        <p>The board has not yet rejected the bid, but it has asked First Interstate to withdraw its offer.</p>
+        <p>Mr. Clausen also said the bank must cut out all unnecessary costs ''as early in the new year as is possible.'' This seemed to indicate that the 5,000 job reductions BankAmerica has set as its goal for 1987 will take place soon. Mr. Clausen, who returned to</p>
+        <p>BankAmerica in October after six years at the World Bank, said he was most disturbed since his return by the ''tremendous erosion of pride among our employees.'' But he said the ''character of this institution is intact.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Church of Scientology Is Sued for $1 Billion</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="340"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FRAUDS AND SWINDLING</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">BRIBERY</classifier>
+        <classifier class="indexing_service" type="descriptor">JUDGES</classifier>
+        <org class="indexing_service">SCIENTOLOGY, CHURCH OF</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1D81F3EF931A35752C0A961948260" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Church of Scientology Is Sued for $1 Billion</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LOS ANGELES, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: More than 400 current and former members of the Church of Scientology have filed a $1 billion lawsuit against the church, accusing it of trying to compromise or pay off two Florida judges and siphon $100 million to foreign bank accounts.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: More than 400 current and former members of the Church of Scientology have filed a $1 billion lawsuit against the church, accusing it of trying to compromise or pay off two Florida judges and siphon $100 million to foreign bank accounts.</p>
+        <p>More than 400 current and former members of the Church of Scientology have filed a $1 billion lawsuit against the church, accusing it of trying to compromise or pay off two Florida judges and siphon $100 million to foreign bank accounts.</p>
+        <p>The suit, filed Wednesday by Lawrence Levy, a lawyer, contends that church officials or their representatives committed fraud and breached fiduciary duties. It says information obtained in purportedly confidential ''auditing'' sessions with a lie detector-like device was used ''for purposes of blackmail and extortion.''</p>
+        <p>The suit seeks an injunction and $1 billion in punitive damages, plus unspecified general damages.</p>
+        <p>The defendants include Ken Hoden and Heber Jentzsch, two Scientology leaders; David Miscavige, chairman of Author Services, which publishes the works of L. Ron Hubbard, the Scientology founder; Mary Sue Hubbard, his widow, Mr. Hubbard's estate and more than 100 other unnamed people.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GOVERNOR OF PUERTO RICO PLEDGES QUICK ACTION TO REQUIRE SPRINKLERS</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="393"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FIRES AND FIREMEN</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <classifier class="indexing_service" type="descriptor">FIRE ALARMS</classifier>
+        <classifier class="indexing_service" type="descriptor">HOTELS AND MOTELS</classifier>
+        <location class="indexing_service">PUERTO RICO</location>
+        <location class="indexing_service">SAN JUAN (PUERTO RICO)</location>
+        <org class="indexing_service">DUPONT PLAZA HOTEL (SAN JUAN, PR)</org>
+        <person class="indexing_service">SUAREZ, MANUEL</person>
+        <person class="indexing_service">HERNANDEZ COLON, RAFAEL (GOV)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico/San Juan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fire Alarms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1D61331F931A35752C0A961948260" item-length="540" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GOVERNOR OF PUERTO RICO PLEDGES QUICK ACTION TO REQUIRE SPRINKLERS</hl1>
+      </hedline>
+      <byline class="print_byline">By MANUEL SUAREZ, Special to the New York Times</byline>
+      <byline class="normalized_byline">SUAREZ, MANUEL</byline>
+      <dateline>SAN JUAN, P.R., Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Gov. Rafael Hernandez Colon acknowledged today that the Dupont Plaza Hotel, scene of the fatal New Year's Eve fire, did not have a sprinkler system because one is not required by Puerto Rican law.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Gov. Rafael Hernandez Colon acknowledged today that the Dupont Plaza Hotel, scene of the fatal New Year's Eve fire, did not have a sprinkler system because one is not required by Puerto Rican law.</p>
+        <p>Gov. Rafael Hernandez Colon acknowledged today that the Dupont Plaza Hotel, scene of the fatal New Year's Eve fire, did not have a sprinkler system because one is not required by Puerto Rican law.</p>
+        <p>The Governor said the law would be amended as soon as possible to force all hotels to install them.</p>
+        <p>In a news conference on the grounds of the hotel, the Governor said a sprinkler system would not have been effective in this fire, where many guests and hotel workers were caught by surprise. Rule on Hotel Inspections</p>
+        <p>Assistant Fire Chief Jose Carrasquillo said in an interview that the department was supposed to inspect all the hotels at least once a year, but that it was not always done because of shortages in personnel. He said he did not know the last time the Dupont Plaza had been inspected.</p>
+        <p>He said the inspections were held to make certain that fire exits were adequately marked, that hallways were kept clear, that hoses attached to standpipes were in working order and that there were fire extinguishers in the kitchens and other areas in which fire hazards might exist.</p>
+        <p>Mr. Carrasquillo said the regulations were based on Federal norms, but he could not say what Federal agency had drawn up the norms.</p>
+        <p>He said the regulations were adequate. ''We have had fires in many of the major hotels in the past and put them out uneventfully before any major damage was done,'' he said. ''This time there were circumstances that did not appear normal.''</p>
+        <p>The 420-room Dupont Plaza was built as the Sheraton Hotel in 1963, at the height of an island tourist boom. It opened the day before another major hotel, the Ponce de Leon, opened 10 blocks away in the Condado Beach area. Hilton a Pioneer in Industry</p>
+        <p>In between were the Condado Beach hotel and La Concha and such smaller hotels as Hotel LaRada.</p>
+        <p>The tourist industry in Puerto Rico began in 1949 with the opening of the Caribe Hilton on a rocky peninsula west of the Condado area. The 400-room Hilton was built by the commonwealth government in the hope it would start things in the tourist industry on the island. As a safeguard, the hotel was designed so it could easily be converted into a hospital.</p>
+        <p>The government invited several large hotel chains to operate its new hotel, but the only one that expessed interest was Conrad Hilton, who then owned a large number of hotels on the mainland.</p>
+        <p>The hotel was an instant success, giving birth to the island's hotel industry and to Hilton Hotels International.</p>
+        <p>Another hotel was opened by the InterContinental Hotel chain several miles to the east in Isla Verde, near the airport. Government Then Built Another</p>
+        <p>The government followed by building La Concha in the heart of the Condado area, then the site of stately homes and mansions by the sea, and invited another hotel chain to manage it.</p>
+        <p>The Condado Beach Hotel, which was built in 1919, was refurbished and expanded by its owners, contributing to establishing the area as the primary hotel district.</p>
+        <p>With so many hotel rooms on the market and so many islands building up their own tourism, Puerto Rican tourism developed into a spotty picture, particularly since the middle 70's.</p>
+        <p>The season now under way was considered the best in 10 years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

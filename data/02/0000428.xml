@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dudek's Many Roles</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="428"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <org class="indexing_service">DENVER BRONCOS</org>
+        <person class="indexing_service">DUDEK, JOE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Denver Broncos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DB1F31F931A35752C0A961948260" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dudek's Many Roles</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: He practices with the team every day, showing the same slashing style and elusive moves that earned him national attention a year ago. But on game day, Joe Dudek has to be content with watching 45 other Denver Broncos suit up and play. Dudek, who scored a collegiate record 74 touchdowns and 474 points in Division III at tiny Plymouth (N.H.) State College, has been on the Broncos' injured reserve list since Aug.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: He practices with the team every day, showing the same slashing style and elusive moves that earned him national attention a year ago. But on game day, Joe Dudek has to be content with watching 45 other Denver Broncos suit up and play. Dudek, who scored a collegiate record 74 touchdowns and 474 points in Division III at tiny Plymouth (N.H.) State College, has been on the Broncos' injured reserve list since Aug.</p>
+        <p>He practices with the team every day, showing the same slashing style and elusive moves that earned him national attention a year ago. But on game day, Joe Dudek has to be content with watching 45 other Denver Broncos suit up and play. Dudek, who scored a collegiate record 74 touchdowns and 474 points in Division III at tiny Plymouth (N.H.) State College, has been on the Broncos' injured reserve list since Aug. 25, when he injured his shoulder. ''My rookie season hasn't worked out the way I wanted it to, but this team has been good to me,'' Dudek said in Denver after practice one day this week. ''They didn't give up on me. They kept me around to learn the offense, and I now feel comfortable with it.'' Dudek's duties in practice usually involve donning the jersey number of the next opponent's running back and simulating that player in drills against the Bronco defense. Among his roles this season, he's been Joe Morris, James Brooks and Craig James.</p>
+        <p>SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

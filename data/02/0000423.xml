@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="423"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="ADVERTISING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">BARNUM COMMUNICATIONS INC</org>
+        <person class="indexing_service">NEAMAN, PETER</person>
+        <person class="indexing_service">SMITH, JUDITH</person>
+        <person class="indexing_service">BASLER, BARBARA</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4D91E31F931A35752C0A961948260" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By Barbara Basler</byline>
+      <byline class="normalized_byline">BASLER, BARBARA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * Peter Neaman and Judith Smith have been promoted to senior vice presidents at Barnum Communications, a marketing communications agency.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * Peter Neaman and Judith Smith have been promoted to senior vice presidents at Barnum Communications, a marketing communications agency.</p>
+        <p>* Peter Neaman and Judith Smith have been promoted to senior vice presidents at Barnum Communications, a marketing communications agency.</p>
+        <p>* Murdoch Magazines has promoted Gabriella Neurath to publisher at European Travel and Life and named John Ballantyne publisher of Electronic Products.</p>
+        <p>* John Kawula is succeeding Howard Stumpf, who has retired as president of the Point of Purchase Advertising Institute.</p>
+        <p>ADVERTISING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

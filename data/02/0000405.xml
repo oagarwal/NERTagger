@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Essex County Chief Sworn In</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="405"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <location class="indexing_service">ESSEX COUNTY (NJ)</location>
+        <person class="indexing_service">AMATO, NICHOLAS R</person>
+        <person class="indexing_service">KEAN, THOMAS H (GOV)</person>
+        <person class="indexing_service">AMATO, NICHOLAS R (MRS)</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD91031F931A35752C0A961948260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Essex County Chief Sworn In</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Nicholas R. Amato, right, with his wife, Barbara, and Governor Kean after being sworn in yesterday in Newark as Essex County Executive. Mr. Amato, a former Democrat, became a Republican and defeated the incumbent, Peter Shapiro, in last November's general election. (NYT/Fred R. Conrad)</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Nicholas R. Amato, right, with his wife, Barbara, and Governor Kean after being sworn in yesterday in Newark as Essex County Executive. Mr. Amato, a former Democrat, became a Republican and defeated the incumbent, Peter Shapiro, in last November's general election. (NYT/Fred R. Conrad)</p>
+        <p>Nicholas R. Amato, right, with his wife, Barbara, and Governor Kean after being sworn in yesterday in Newark as Essex County Executive. Mr. Amato, a former Democrat, became a Republican and defeated the incumbent, Peter Shapiro, in last November's general election. (NYT/Fred R. Conrad)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

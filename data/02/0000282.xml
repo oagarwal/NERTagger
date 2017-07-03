@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE PATS AND THE JESSES</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="282"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="IN THE NATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PRESIDENTIAL ELECTION OF 1988</classifier>
+        <person class="indexing_service">WICKER, TOM</person>
+        <person class="indexing_service">BUCHANAN, PATRICK J</person>
+        <person class="indexing_service">ROBERTSON, MARION G (PAT) (REV)</person>
+        <person class="indexing_service">JACKSON, JESSE L (REV)</person>
+        <classifier class="online_producer" type="types_of_material">OP-ED</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD133EF931A35752C0A961948260" item-length="747" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE PATS AND THE JESSES</hl1>
+      </hedline>
+      <byline class="print_byline">By Tom Wicker</byline>
+      <byline class="normalized_byline">WICKER, TOM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: New years ordinarily are nothing to look forward to, since it doesn't take many of them to convince any observant soul that things usually get worse. But 1987 does offer a few possibilities for interesting action:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: New years ordinarily are nothing to look forward to, since it doesn't take many of them to convince any observant soul that things usually get worse. But 1987 does offer a few possibilities for interesting action:</p>
+        <p>New years ordinarily are nothing to look forward to, since it doesn't take many of them to convince any observant soul that things usually get worse. But 1987 does offer a few possibilities for interesting action:</p>
+        <p>Pat Buchanan's Presidential Campaign:</p>
+        <p>The redoubtable White House communications chief has disavowed any thought of seeking the Presidency, but a number of conservative movers and shakers say they're going to put him up anyway. Would that they would, for at least three reasons.</p>
+        <p>One is that Pat Buchanan would enliven any campaign with outrageous views and outrageous remarks, spoken with candor and enthusiasm, however wrong-headedly. Among the usual pussy-footers and hair-splitters of Presidential politics, he would stand out like a fire truck coming down Pennsylvania Avenue with sirens wailing and red lights flashing. What's wrong with that?  Second, a Buchanan candidacy would give blunt-headed conservatives, far more than Ronald Reagan ever has done, the unmistakable, black-and-white, uncompromising choice between the hard right and everybody else that these conservatives hunger for. What's wrong with that, everybody else?</p>
+        <p>Third, Mr. Buchanan could explain why he insisted in a television debate last March 17 that among those aiding the Sandinistas in Nicaragua were ''Islamic extremists from Iran.'' Was that the same Iran the Reagan-Buchanan Administration was selling arms to at the time? Have those extremists now gone over to the anti-Sandinista contras to whom the arms sales proceeds were diverted? Does the right hand know what the right hand is doing?</p>
+        <p>The Rev. Pat Robertson's Presidential Campaign:</p>
+        <p>The widely known TV evangelist apparently is serious about seeking the Republican nomination. He has a following, lots of money and the potential to take conservative and fundamentalist delegates away from both George Bush, a born-again right-winger, and Jack Kemp, who claims he's an original. Whether Mr. Robertson has the potential to win is another matter.</p>
+        <p>But if both Pats enter the Iowa caucuses and that big Southern primary in March 1988, the right-wing di-lemma could be heart-rending. It could be so rending, in fact, that Bob Dole could wind up running and looking like a moderate - proving once again that in Presidential politics anything is possible.</p>
+        <p>The Rev. Jesse Jackson's Presidential Campaign:</p>
+        <p>The Chicago spellbinder is already being bombarded with advice not to run again, to throw his support to someone who can win, to conduct himself so as to enhance Party unity - in short, to be a credit to his race rather than pushy and demanding.</p>
+        <p>No doubt that's good advice from people whose main interest is to put a Democrat in the White House - almost any Democrat except Mr. Jackson. But why should he heed that advice? He can hear Democratic leaders calling for their party to move to the right. He can look over the probable Democratic aspirants and see no one who looks like a traditional Democratic liberal - save possibly Mario Cuomo, who is only beginning to act like a Presidential candidate and may not be strong in the South and West anyway.</p>
+        <p>Besides, Mr. Jackson is an American; he's got a right to run - at least as much right and probably more, by dues paid, than Mr. Robertson in the other party. Why should Mr. Jackson step aside in the interests of party unity, when George Wallace didn't in 1968 or 1972, or John Anderson or Edward Kennedy in 1980?</p>
+        <p>As for whether he can win, Jesse Jackson certainly can see the opportunity afforded a strong black candidate by that big Southern primary -an opportunity, at a minimum, to win a sizable delegate block that might keep Democrats mindful of the importance of black votes in November 1988 and thereafter.</p>
+        <p>Senator Jesse Helms's Second-Thought Campaign:</p>
+        <p>''Senator No'' of North Carolina promised that state, when it elected him to a third term in 1984, to keep the chair of the Agriculture Committee rather than shift to the top seat on Foreign Relations, as seniority would have entitled him. Now he says the Republican loss of the Senate negates that pledge; so he's claiming the Foreign Relations post of ''ranking Republican.'' Senator Richard Lugar of Indiana, who chaired the committee for the last two years, understandably is resisting.</p>
+        <p>I have no head count on this momentous struggle. But if the committee's Republicans allow Mr. Helms to renege on his pledge and get away with it, they'll deserve what they'll surely get. Happy New Year!</p>
+        <p>IN THE NATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

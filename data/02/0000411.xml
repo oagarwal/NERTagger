@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics: Matters of Appearance; Out of the Moonlight</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="411"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COURTS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <classifier class="indexing_service" type="descriptor">PATRONAGE</classifier>
+        <classifier class="indexing_service" type="descriptor">MOONLIGHTING</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">DEMOCRATIC PARTY</org>
+        <org class="indexing_service">REPUBLICAN PARTY</org>
+        <object.title class="indexing_service">TOPICS (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D91131F931A35752C0A961948260" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics: Matters of Appearance; Out of the Moonlight</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: New York City's courthouse jobs have long been dispensed by local political party machines, which still exert an unhealthy influence over the election of judges throughout the state. The dawn of 1987 marks a welcome change in this dubious tradition.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: New York City's courthouse jobs have long been dispensed by local political party machines, which still exert an unhealthy influence over the election of judges throughout the state. The dawn of 1987 marks a welcome change in this dubious tradition.</p>
+        <p>New York City's courthouse jobs have long been dispensed by local political party machines, which still exert an unhealthy influence over the election of judges throughout the state. The dawn of 1987 marks a welcome change in this dubious tradition.</p>
+        <p>Beginning yesterday, court workers are barred from moonlighting in key party positions, like district leader or club officer. The prohibition, announced last July by the state's Office of Court Administration, broadens the rule that has been in force over a decade for the law clerks and secretaries hired directly by elected judges.</p>
+        <p>Need for the new rule became clear last January when Mildred Snyder, a Surrogate Court adoption examiner who was also the first deputy of the Queens Democratic Party, became next in line to succeed Donald Manes as county leader. Rightly wary of the appearance created by Ms. Snyder's dual role, the state's chief administrative judge, Joseph Bellacosa, ordered her to choose between her job and politics. She chose her job. Mr. Bellacosa then sought the general rule.</p>
+        <p>It's unknown how many court workers are affected by the new rule, but the principle at stake is clear. New Yorkers have a right to courts that are halls of justice, not bastions of clubhouse patronage.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

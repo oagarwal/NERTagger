@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F.B.I. SAYS BULLET THAT HIT JET COULD HAVE CUASED A DISASTER</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="378"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOOTINGS</classifier>
+        <location class="indexing_service">RALEIGH-DURHAM AIRPORT</location>
+        <org class="indexing_service">FEDERAL BUREAU OF INVESTIGATION (FBI)</org>
+        <org class="indexing_service">UNITED AIR LINES</org>
+        <person class="indexing_service">ROLLINS, BARRY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DA1331F931A35752C0A961948260" item-length="546" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F.B.I. SAYS BULLET THAT HIT JET COULD HAVE CUASED A DISASTER</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>RALEIGH, N.C., Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A bullet that wounded a passenger on a United Airlines jet flying into the Raleigh-Durham Airport Wednesday could have knocked the jet out of the sky, a spokesman for the Federal Bureau of Investigation said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A bullet that wounded a passenger on a United Airlines jet flying into the Raleigh-Durham Airport Wednesday could have knocked the jet out of the sky, a spokesman for the Federal Bureau of Investigation said today.</p>
+        <p>A bullet that wounded a passenger on a United Airlines jet flying into the Raleigh-Durham Airport Wednesday could have knocked the jet out of the sky, a spokesman for the Federal Bureau of Investigation said today.</p>
+        <p>''Shooting into an aircraft is a very, very serious matter,'' the spokesman, Charles S. Richards, said in a telephone interview from Charlotte, N.C. ''A bullet could ricochet, kill the pilot, the plane comes down and 200 people are dead.''</p>
+        <p>Mr. Richards said that no arrests had been made and that F.B.I. agents and the local authorities were continuing their search for clues at the airport and in the surrounding area. He declined to give details of the investigation or to say whether the authorities had found any evidence that the shooting was intentional. He also would not say whether the investigators knew what kind of gun had been used.</p>
+        <p>The shooting occurred about 5:25 P.M., two miles south of the airport, as United Flight 1502, a Boeing 737, approached the airport on a flight from Wilmington, N.C. There were 16 passengers and five crew members aboard. Victim in Stable Condition</p>
+        <p>The bullet pierced the belly of the plane and struck Barry Rollins, 30 years old, of New York City. It passed through his right thigh and lodged in his left cheek. The bullet was removed Wednesday night and Mr. Rollins was in stable condition at Rex Hospital in Raleigh, according to a nursing supervisor there.</p>
+        <p>The shooting brought renewed calls for curbs on hunting and the use of firearms in Wake County, particularly in areas near the airport.</p>
+        <p>''It is just another in a long list of cases that points out to me that we need to do something about the county gun ordinances,'' Merrie R. Hedrick, a Wake County commissioner, said. ''It would certainly seem to me that if people were shooting that close by, it was just a question of when something would happen.''</p>
+        <p>But G. Eric Shuford, president of the Sir Walter Raleigh Gun Club, said he did not believe additional gun restrictions were needed.</p>
+        <p>''Whoever perpetrated such an act should be prosecuted to the fullest extent of the law,'' Mr. Shuford said. ''Don't restrict all the responsible hunters and responsible firearm owners because of one stupid act by one person.'' Hunting in Nearby Park</p>
+        <p>Mr. Shuford said people often hunted near the airport and in nearby William B. Umstead State Park. ''There's a lot of woods out there,'' he said. ''That's a fairly decent hunting area for deer, squirrel and rabbit.''</p>
+        <p>He added that almost any high-powered rifle could have been used in the shooting and that many deer hunters used such rifles.</p>
+        <p>United Airlines flew several members of the victim's family to Raleigh, said Matt P. Gonring, a spokesman for the company. He said the airline was paying for Mr. Rollins's medical care.</p>
+        <p>A man who answered the phone in Mr. Rollins's hospital room and identified himself as a family friend said Mr. Rollins was ''doing fine.'' He said Mr. Rollins had not been able to talk much about the incident.</p>
+        <p>Mr. Richards of the F.B.I. said he was concerned that the incident might prompt similar acts.</p>
+        <p>''We've got so many wackos in the world, you never know,'' he said. ''It would be a tragic thing. I just hope it doesn't give any loonies out there an idea.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

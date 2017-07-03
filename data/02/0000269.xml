@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tower of Pisa Leans A Little More in '86</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="269"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LEANING TOWER OF PISA</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D9123EF931A35752C0A961948260" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tower of Pisa Leans A Little More in '86</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PISA, Italy, Jan 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The computers that keep track of this city's medieval tower indicate that it leaned a bit more than usual in 1986, an Italian professor said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The computers that keep track of this city's medieval tower indicate that it leaned a bit more than usual in 1986, an Italian professor said today.</p>
+        <p>The computers that keep track of this city's medieval tower indicate that it leaned a bit more than usual in 1986, an Italian professor said today.</p>
+        <p>Prof. Giuseppe Toniolo, who heads a group that maintains the landmark, said in his annual report that the 180-foot Tower of Pisa listed an additional five-hundredths of an inch in 1986.</p>
+        <p>The tower, which is more than 800 years old, normally leans an average of four-hundredths of an inch more each year, he said, but the movement appeared to have almost stopped in the 1980's.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

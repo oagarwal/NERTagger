@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blaze Kills Mother And Her 2 Children</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="272"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="METRO DATELINES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FIRES AND FIREMEN</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <person class="indexing_service">FRENCH, BONNIE</person>
+        <person class="indexing_service">CROTON FALLS (NY)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D7123EF931A35752C0A961948260" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blaze Kills Mother And Her 2 Children</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>CROTON FALLS, N.Y.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A mother and her two children died after an intense blaze trapped them inside their home Wednesday and firefighters, who tried to rescue them, were driven back by the flames, the authorities said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A mother and her two children died after an intense blaze trapped them inside their home Wednesday and firefighters, who tried to rescue them, were driven back by the flames, the authorities said.</p>
+        <p>A mother and her two children died after an intense blaze trapped them inside their home Wednesday and firefighters, who tried to rescue them, were driven back by the flames, the authorities said.</p>
+        <p>The Carmel police said Bonnie French, a mother in her 20's, was found dead on top of her two children, Amanda, 3, and Amy, 1, in the rear room of the split-level house shortly before 2 P.M. Police Sgt. A. Gerald Schramek said the fire broke out in the house on Daisy Lane at 12:30 P.M.</p>
+        <p>The sergeant said firefighters, arriving at the house, found it engulfed in flames. The firefighters made several attempts to enter the house but were driven back by the heat and flames, he said. It took them one and a half hours to extinguish the blaze.</p>
+        <p>Sergeant Schramek said the fire was under investigation by the Westchester County arson investigator.</p>
+        <p>All three victims were pronounced dead at the scene by the Putnam County Coroner, Dr. Paul Chang. They were taken to the Putnam Hospital Center in Carmel for identification, Sergeant Schramek said.</p>
+        <p>METRO DATELINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,166 @@
+O,lead
+O,:
+O,for
+O,information
+O,on
+O,the
+O,survivors
+O,and
+O,victims
+O,of
+O,the
+LOCATION,dupont plaza
+O,hotel
+O,disaster
+O,,
+O,the
+ORGANIZATION,american red cross
+O,has
+O,set
+O,up
+O,two
+O,24-hour
+O,centers
+O,,
+O,one
+O,in
+LOCATION,new york city
+O,and
+O,the
+O,other
+O,in
+LOCATION,san juan
+O,,
+O,p.r.for
+O,information
+O,on
+O,the
+O,survivors
+O,and
+O,victims
+O,of
+O,the
+O,dupont
+O,plaza
+O,hotel
+O,disaster
+O,,
+O,the
+ORGANIZATION,american red cross
+O,has
+O,set
+O,up
+O,two
+O,24-hour
+O,centers
+O,,
+O,one
+O,in
+LOCATION,new york city
+O,and
+O,the
+O,other
+O,in
+LOCATION,san juan
+O,,
+O,p.r.the
+O,telephone
+O,number
+O,here
+O,is
+O,-lrb-212-rrb- 787-1000
+O,.
+O,the
+O,numbers
+O,at
+O,the
+LOCATION,san juan
+O,center
+O,are
+O,-lrb-809-rrb- 721-0003
+O,,
+O,721-0004
+O,,
+O,721-0025
+O,,
+O,721-0033
+O,and
+O,721-5152
+O,.
+O,volunteers
+O,have
+O,compiled
+O,the
+O,names
+O,of
+O,many
+O,of
+O,the
+O,guests
+O,and
+O,visitors
+O,at
+O,the
+LOCATION,dupont plaza
+O,,
+O,along
+O,with
+O,their
+O,condition
+O,and
+O,whereabouts
+O,.
+O,the
+O,list
+O,is
+O,constantly
+O,updated
+O,and
+O,expanded
+O,,
+O,the
+ORGANIZATION,red cross
+O,said.separate
+O,information
+O,on
+O,the
+O,survivors
+O,and
+O,victims
+O,is
+O,being
+O,gathered
+O,by
+O,the
+ORGANIZATION,puerto rican state civil defense agency
+O,,
+O,which
+O,can
+O,be
+O,reached
+O,at
+O,any
+O,hour
+O,at
+O,-lrb-809-rrb- 724-0124
+O,.
+O,sharing
+O,the
+O,civil
+O,defense
+O,data
+O,but
+O,also
+O,providing
+O,some
+O,of
+O,its
+O,own
+O,information
+O,is
+O,the
+ORGANIZATION,puerto rico tourism agency
+O,,
+O,at
+O,-lrb-809-rrb- 725-0111
+O,.

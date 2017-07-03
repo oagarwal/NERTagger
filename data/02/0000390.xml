@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OWNERS AND OTHERS LIKELY TO SEE SUITS</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="390"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FIRES AND FIREMEN</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">HOTELS AND MOTELS</classifier>
+        <location class="indexing_service">PUERTO RICO</location>
+        <location class="indexing_service">SAN JUAN (PUERTO RICO)</location>
+        <org class="indexing_service">DUPONT PLAZA HOTEL (SAN JUAN, PR)</org>
+        <org class="indexing_service">HOTEL SYSTEMS INTERNATIONAL</org>
+        <person class="indexing_service">STEVENSON, RICHARD W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico/San Juan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEED71331F931A35752C0A961948260" item-length="536" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OWNERS AND OTHERS LIKELY TO SEE SUITS</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD W. STEVENSON, Special to the New York Times</byline>
+      <byline class="normalized_byline">STEVENSON, RICHARD W</byline>
+      <dateline>LOS ANGELES, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The fatal hotel fire Wednesday in San Juan is likely to expose the hotel's owner, Hotel Systems International Inc. of Santa Monica, Calif., to huge lawsuits similar to those brought against the M-G-M Grand Hotel in Las Vegas after a blaze there in 1980, lawyers said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The fatal hotel fire Wednesday in San Juan is likely to expose the hotel's owner, Hotel Systems International Inc. of Santa Monica, Calif., to huge lawsuits similar to those brought against the M-G-M Grand Hotel in Las Vegas after a blaze there in 1980, lawyers said today.</p>
+        <p>The fatal hotel fire Wednesday in San Juan is likely to expose the hotel's owner, Hotel Systems International Inc. of Santa Monica, Calif., to huge lawsuits similar to those brought against the M-G-M Grand Hotel in Las Vegas after a blaze there in 1980, lawyers said today.</p>
+        <p>Hotel Systems is a relatively small company that operates about half a dozen luxury hotels around the country. Among them are the Sir Francis Drake in San Francisco, the Barclay in Philadelphia, the Dupont Plaza in Washington, and several hotels in southern California.</p>
+        <p>One person familiar with Hotel Systems said it owned the San Juan hotel, the Dupont Plaza, through a separate corporation. No further details about this or Hotel Systems, which is privately held, were immediately available. Hotel Systems executives were said to be in San Juan or on their way there, and calls to the company's headquarters in Santa Monica were not answered. Previously a Sheraton</p>
+        <p>Hotel Systems acquired the Washington Dupont in 1977, and the San Juan hotel was described as being part of that purchase. Before that, the San Juan hotel had been operated as a Sheraton.</p>
+        <p>The fire at the M-G-M Grand, on Nov. 21, 1980, killed 84 hotel employees and guests and injured 700 others. The fire prompted lawsuits against the hotel seeking more than $2 billion in compensatory and punitive damages. Most of the suits were later settled for a total of about $105 million.</p>
+        <p>At the time of the fire, the M-G-M Grand had $30 million in liability insurance. It later bought $170 million in retroactive insurance.</p>
+        <p>It could not be learned how much insurance is carried by Hotel Systems or the affiliated corporation said to own the San Juan hotel. The cost of liability insurance has increased dramatically in recent years in what has been described as an explosion in liability lawsuits and subsequent damage awards. Prospects of Litigation</p>
+        <p>Lawyers who have handled cases stemming from similar situations said it was virtually certain that suits would be brought against the hotel's owner, and possibly against the structure's builders and designers. But the course of any litigation, they said, depends on what the cause of the fire is determined to be.</p>
+        <p>If, for example, investigators find that the blaze was set by arsonists, it would diminish the liability of the hotel's owner, though probably not eliminate it entirely, lawyers said.</p>
+        <p>''You can assume there will be litigation,'' said Neil G. Galatz, a Las Vegas lawyer who represented plaintiffs in the M-G-M Grand fire and in other cases.</p>
+        <p>Mr. Galatz said any suits stemming from the San Juan fire would probably center on its cause of the blaze, how well equipped the hotel was to deal with fire, and how well designed the structure was. Property Damage in Millions</p>
+        <p>Gov. Rafael Hernandez Colon said yesterday that the Puerto Rican fire code did not require sprinklers in hotels and that none was present in the Dupont Plaza.</p>
+        <p>It could not be determined today how much property insurance the hotel carries to cover the property lost in the fire. The Associated Press quoted Martin B. Smith, an insurance adjustor, as saying the hotel had sustained $4 million in damages from the fire.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 DIE IN DUBLIN APARTMENT FIRE</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="309"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GAS (FUEL)</classifier>
+        <classifier class="indexing_service" type="descriptor">EXPLOSIONS</classifier>
+        <location class="indexing_service">DUBLIN (IRELAND)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Ireland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ireland/Dublin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ireland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DD113EF931A35752C0A961948260" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 DIE IN DUBLIN APARTMENT FIRE</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>DUBLIN, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two explosions, probably caused by a gas leak, destroyed a five-story apartment building in Dublin today and killed a husband and wife, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two explosions, probably caused by a gas leak, destroyed a five-story apartment building in Dublin today and killed a husband and wife, the police said.</p>
+        <p>Two explosions, probably caused by a gas leak, destroyed a five-story apartment building in Dublin today and killed a husband and wife, the police said.</p>
+        <p>Rescuers found the couple buried under tons of rubble. The police said they expected to continue searching through the night until they had accounted for the 30 occupants of the building, Raglin House on Sandymount Avenue in the fashionable Ballsbridge district.</p>
+        <p>''It has not been possible to determine how many people were in the building at the time of the explosions, so we will continue to search until every item of debris is cleared,'' said Sgt. Bill Kelly of the police. Firefighter Is Injured</p>
+        <p>A firefighter hit by a piece of falling masonry after the explosions was slightly injured.</p>
+        <p>Prime Minister Garret FitzGerald, whose home is less than a mile away, went to the scene, where friends and relatives of the occupants had gathered. ''Everything possible is being done,'' he told reporters.</p>
+        <p>The police said the cause of the explosions, which took place at about 9:30 A.M., was not definitely known, but a gas leak was considered the most likely possibility. A smell of gas hung over the neighborhood, and the Dublin Gas Company confirmed it had investigated a reported leak in the area over the Christmas holiday. Son With Baby Sitter</p>
+        <p>The dead couple were identified by police as Michael Murphy, an employee of the Irish broadcasting network, RTE, and his wife, Noelle, a radiologist. Their 4-year-old son had been feared to be among the victims, but he was later found safe at the home of a babysitter.</p>
+        <p>The police were trying to locate the occupants of the building. The authorities issued nationwide radio appeals for residents of the building to contact them.</p>
+        <p>Within minutes of the explosions the police called in all available ambulances and fire equipment and put Dublin's biggest hospital, St. Vincent's, on alert.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

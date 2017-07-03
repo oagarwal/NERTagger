@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Israelis Break Up a Protest At West Bank Refugee Center</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="270"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">REFUGEES AND EXPATRIATES</classifier>
+        <classifier class="indexing_service" type="descriptor">PALESTINIANS</classifier>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <classifier class="indexing_service" type="descriptor">ISRAELI SETTLEMENTS (OCCUPIED TERRITORIES)</classifier>
+        <location class="indexing_service">MIDDLE EAST</location>
+        <location class="indexing_service">NABLUS (WEST BANK OF JORDAN RIVER)</location>
+        <location class="indexing_service">JORDAN RIVER (WEST BANK)</location>
+        <location class="indexing_service">ISRAEL, STATE OF</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Jordan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Jordan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/West Bank</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1D9123EF931A35752C0A961948260" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Israelis Break Up a Protest At West Bank Refugee Center</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>JERUSALEM, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Israeli troops fired tear gas and rubber bullets at Palestinian youths who demonstrated today at the Balata refugee center near Nablus on the West Bank, an army spokesman said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Israeli troops fired tear gas and rubber bullets at Palestinian youths who demonstrated today at the Balata refugee center near Nablus on the West Bank, an army spokesman said.</p>
+        <p>Israeli troops fired tear gas and rubber bullets at Palestinian youths who demonstrated today at the Balata refugee center near Nablus on the West Bank, an army spokesman said.</p>
+        <p>The army imposed a curfew on the center after troops broke up the gathering of about 200 youths, who threw large rocks at passing vehicles, the spokesman said. He said two of the youths were arrested.</p>
+        <p>Earlier in the day Palestinians threw rocks at an army patrol in the Nablus business section and smashed the windshield of a van carrying tourists, the spokesman said. He said nobody was injured in the incidents.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

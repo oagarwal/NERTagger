@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Dishonor List' of Words Is Published</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="274"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LANGUAGE AND LANGUAGES</classifier>
+        <classifier class="indexing_service" type="descriptor">ENGLISH LANGUAGE</classifier>
+        <org class="indexing_service">UNICORN HUNTERS (ORGN)</org>
+        <org class="indexing_service">LAKE SUPERIOR COLLEGE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">English Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6D6123EF931A35752C0A961948260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Dishonor List' of Words Is Published</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>SAULT STE. MARIE, Mich., Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: If word-watchers get their way in 1987, we shall not hear of television shows ''filmed before a live audience'' or of ''shower activity'' on a rainy day.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: If word-watchers get their way in 1987, we shall not hear of television shows ''filmed before a live audience'' or of ''shower activity'' on a rainy day.</p>
+        <p>If word-watchers get their way in 1987, we shall not hear of television shows ''filmed before a live audience'' or of ''shower activity'' on a rainy day.</p>
+        <p>The New Year's Dishonor List of Words Banished from the Queen's English, an annual compilation of words and phrases that should be eliminated from the English language, was released today by the Unicorn Hunters, an organization established in 1970 by students and faculty members at Lake Superior State College.</p>
+        <p>Nominations for the list came from the club's more than 40,000 members worldwide, according to William T. Rabe, archivist of the Unicorn Hunters.</p>
+        <p>The group's 1987 list also issued redundancy alerts on ''foreign imports'' and ''I.R.A. accounts,'' banished ''shower activity'' in favor of ''rain,'' and asked whether ''partly sunny'' meant a solar eclipse. It also included ''turned-up missing,'' ''hands-on participatory experience'' and the ''colorization'' process for coloring classic black-and-white films.</p>
+        <p>''It's bad enough that Ted Turner damages classic film,'' wrote one critic. ''His disrespect for the language is equally reprehensible. He is simply coloring films.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

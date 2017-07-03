@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW YORK AGENDA</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="358"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DE1431F931A35752C0A961948260" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW YORK AGENDA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Interracial Action in Queens</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Interracial Action in Queens</p>
+        <p>Interracial Action in Queens</p>
+        <p>An interracial group called Concerned Citizens of South Queens, formed by civic and religious leaders and the area's Congressman-elect, the Rev. Floyd H. Flake, is to propose measures to relieve tensions in the wake of the Howard Beach attack. Among the ideas are a community newsletter, a petition to the Board of Education for a new curriculum on racial awareness, and more sports and cultural exchanges between white and black youths. 11 A.M., St. Helen's Roman Catholic Church, 157th Avenue and 84th Street, Howard Beach. Marking End of Hanukkah</p>
+        <p>Lighting, with the aid of a cherry picker lent by the Consolidated Edison Company of the eighth candle of the 32-foot-high Hanukkah menorah at Grand Army Plaza will mark the final day of the Festival of Lights. 3:44 P.M., Fifth Avenue and 59th Street.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

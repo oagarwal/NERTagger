@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Expand Preventive Detention</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="280"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CRIME AND CRIMINALS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <classifier class="indexing_service" type="descriptor">PREVENTIVE DETENTION</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DD133EF931A35752C0A961948260" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Expand Preventive Detention</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: At its best, representative government tempers the worst impulses of a democracy. At other times, representatives turn those impulses into laws. That's what may be happening now in New Jersey, where a proposal to expand the preventive detention of criminal suspects is wending its way through the Legislature.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: At its best, representative government tempers the worst impulses of a democracy. At other times, representatives turn those impulses into laws. That's what may be happening now in New Jersey, where a proposal to expand the preventive detention of criminal suspects is wending its way through the Legislature.</p>
+        <p>At its best, representative government tempers the worst impulses of a democracy. At other times, representatives turn those impulses into laws. That's what may be happening now in New Jersey, where a proposal to expand the preventive detention of criminal suspects is wending its way through the Legislature.</p>
+        <p>The proposal has already passed the Republican Assembly and is now in committee in the Democratic Senate. Senate President John F. Russo opposes the measure, but says, quite properly, that he will not prevent the full body from voting on it if it is favorably reported out of committee. Governor Kean proposed the measure in his State of the State message last year.</p>
+        <p>New Jersey already allows preventive detention for defendants in capital cases. The new proposal would ask voters to broaden the practice to all serious criminal cases by amending the State Constitution. The idea, familiar because of debates over similar Federal legislation, is to let judges consider the dangerousness of accused people in making bail decisions. Judges could then deny bail to those they deem are likely to commit crimes. Assembly Speaker Chuck Hardwick observes that ''statistics show that more than 15 percent of violent crimes are committed by people who are out on bail.'' That means, of course, that 85 percent are committed by others who would be undeterred by preventive detention. It is no small thing that New Jerseyans are asked to trade to keep those 15 percent in jail until they can be tried; it is the basic presumption of innocence until proven guilty. Even then, there are no guarantees.</p>
+        <p>The success of such a system depends entirely on the wisdom, or luck, of individual judges in determining dangerousness. There are no guidelines for such judgments beyond the record of the accused and the best estimate of the judge. Some truly dangerous people might be let loose; some who are neither dangerous nor guilty might be jailed.</p>
+        <p>As of now, it looks like a close call in the Senate, with the forces favoring preventive detention having the advantage. That ought to worry New Jerseyans - at least as much as crime rates do. This is a dangerous proposal; may the state Senate have the courage to reject it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

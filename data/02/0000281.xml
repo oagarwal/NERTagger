@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Year of the Ex-Prisoner</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="281"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FREEDOM AND HUMAN RIGHTS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">POLITICAL PRISONERS</classifier>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">TRIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">TERRORISM</classifier>
+        <classifier class="indexing_service" type="descriptor">ARMAMENT, DEFENSE AND MILITARY FORCES</classifier>
+        <location class="indexing_service">PHILIPPINES, REPUBLIC OF THE</location>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS</location>
+        <location class="indexing_service">POLAND</location>
+        <location class="indexing_service">HAITI</location>
+        <location class="indexing_service">GUATEMALA</location>
+        <location class="indexing_service">ARGENTINA</location>
+        <location class="indexing_service">CUBA</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Philippines</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Cuba</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Haiti</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Argentina</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Guatemala</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Poland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DD133EF931A35752C0A961948260" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Year of the Ex-Prisoner</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: What a year 1986 turned out to be for the most powerless of God's children, political prisoners. Tyrannies toppled, amnesties multiplied and once-powerful dictators were held to account for their crimes against human rights. There were some deplorable setbacks, especially in South Africa, and progress was uneven.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: What a year 1986 turned out to be for the most powerless of God's children, political prisoners. Tyrannies toppled, amnesties multiplied and once-powerful dictators were held to account for their crimes against human rights. There were some deplorable setbacks, especially in South Africa, and progress was uneven.</p>
+        <p>What a year 1986 turned out to be for the most powerless of God's children, political prisoners. Tyrannies toppled, amnesties multiplied and once-powerful dictators were held to account for their crimes against human rights. There were some deplorable setbacks, especially in South Africa, and progress was uneven. But taken as a whole, it was the year of the ex-prisoner, a time when human rights seemed to come of age globally, conquering offenders left and right, encouraging agitators for decency.</p>
+        <p>An auspicious February saw the non-violent demolition of the Marcos tyranny in the Philippines. Jails were emptied and political rights restored, sending tremors across the Pacific to South Korea, Taiwan and mainland China.</p>
+        <p>Nearer home, President-for-Life Jean-Claude Duvalier in Haiti was thrown out, and other prison gates were thrown open. And in Guatemala, an elected civilian President took some first steps to end a human rights nightmare. All the new regimes are coping with troubles, but for once the tide is with them.</p>
+        <p>Books by victims mattered in 1986. Armando Valladares's book, ''Against All Hope,'' a graphic account of Cuba's penal colony, was a devastating blow to that Communist regime's reputation. Adam Michnik's ''Letters from Prison'' did the same for the Polish version.</p>
+        <p>A defensive Fidel Castro freed scores of long-term political prisoners (no dictatorship holds more than Cuba), and by year's end in Warsaw, the last of jailed Solidarity supporters were released. By contrast, Stalinist Czechoslovakia marched backwards, jailing devotees of jazz.</p>
+        <p>Under Mikhail Gorbachev, the Soviet Union joined in freeing its most celebrated captives: Anatoly Shcharansky, Yuri Orlov and Andrei Sakharov. Hundreds more waste in jail, and uncounted thousands are denied the rudimentary right to emigrate. But Mr. Gorbachev will now be judged by hopes he has loosed, especially after personally intervening to end the banishment of Dr. Sakharov and Yelena Bonner, the scientist's formidable wife.</p>
+        <p>The year saw important precedents for holding the powerful accountable for political crimes. In Argentina, a nation sat in judgment on itself just before the year began, trying and sentencing the generals responsible for a ''dirty war'' against terrorists. A parallel drama is underway in the Central African Republic, where the brutal former Emperor Bokassa returned from exile and is being tried for his offenses.</p>
+        <p>Such accountability is usually left to historians, not to courts. Prudence, hypocrisy and ideology conspire to save butchers in uniform or (as in Iran) clerical garb. Justice is a stranger in most of the world, where dictatorial regimes are the rule. And whatever the advances elsewhere, in South Africa a Government that professes Western values progresses toward totalitarianism. The year ends with Dr. Sakharov free but not Nelson Mandela. The task for 1987 is to keep the contagion alive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

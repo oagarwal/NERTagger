@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HUSKERS BACK UP TAUNTING</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="402"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SUGAR BOWL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">COLLEGE ATHLETICS</classifier>
+        <org class="indexing_service">LOUISIANA STATE UNIVERSITY</org>
+        <org class="indexing_service">NEBRASKA, UNIVERSITY OF</org>
+        <object.title class="indexing_service">SUGAR BOWL</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/College Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DC1031F931A35752C0A961948260" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HUSKERS BACK UP TAUNTING</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>NEW ORLEANS, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Nebraska verbally attacked Louisiana State for more than a week and today backed it up with a 30-15 victory in the U.S.F.&amp;G. Sugar Bowl.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Nebraska verbally attacked Louisiana State for more than a week and today backed it up with a 30-15 victory in the U.S.F.&amp;G. Sugar Bowl.</p>
+        <p>Nebraska verbally attacked Louisiana State for more than a week and today backed it up with a 30-15 victory in the U.S.F.&amp;G. Sugar Bowl.</p>
+        <p>The Cornhuskers (10-2) were led by Steve Taylor, the quarterback who was named most valuable player in the game, and a swarming defense that shut down L.S.U. after it had taken a 7-0 lead on the game's first offensive series.</p>
+        <p>After arriving in New Orleans Dec. 23, the Nebraska players continually cast aspersions about the Tigers and their redshirt freshman quarterback, Tom Hodson.</p>
+        <p>''Pressure on the passer was the difference in the game,'' said Coach Tom Osborne of Nebraska. ''The turning point came on those two big sacks.''</p>
+        <p>The key sacks came from Broderick Thomas, the end, and Danny Noonan, a consensus all-American middle guard, on the last two plays of the third quarter after L.S.U., trailing 17-7, had taken over on the Nebraska 17-yard line following a blocked field-goal attempt Motivation by Incident A defensive tackle, Neil Smith, a New Orleans native, said the motivation for Nebraska came on the first night in town, when nine players and two graduate assistants were arrested in the French Quarter for disturbing the peace, charges which were later dropped.</p>
+        <p>''A lot of guys say they were mistreated and didn't want to come back,'' Smith said. ''I felt like we needed to give them a bonus to get them to want to come back.''</p>
+        <p>Noonan, one of those arrested, said the incident was influential in the Huskers' performance. ''I think that only helped us,'' Noonan said. ''We got fired up. The people treated us like dirt.''</p>
+        <p>Noonan said Nebraska's pregame remarks about L.S.U. was uncharacteristic for the Cornhuskers. ''I'm just glad we backed it up,'' Noonan said. Losing to a 'Sore Winner'</p>
+        <p>Toby Caston, a senior linebacker for L.S.U., felt the Nebraska players' comments before the game had fired up his team and made the loss especially hard to take.</p>
+        <p>''We got killed today,'' Caston admitted. ''Whatever they said they were going to do, they backed it up. It's the most distasteful thing in my life to lose to a sore winner.''</p>
+        <p>Bill Arnsparger, coaching his final game at L.S.U., said: ''They whipped us.''</p>
+        <p>The Cornhuskers (10-2) apparently did not win the respect of some of the players they beat.</p>
+        <p>''I can't stand Nebraska,'' said Harvey Williams, a freshman running back for L.S.U. (9-3). ''I thought they were a good, clean team. They're not. They were scratching, trying to claw my eyes. . .''</p>
+        <p>Williams, who rushed for 56 yards and one touchdown on 12 carries, said he'd like to play Nebraska again. But he said next time they should have ''police on the field instead of officials.''</p>
+        <p>L.S.U. set a Sugar Bowl record for penalties in the game with 12 for 130 yards.</p>
+        <p>''It was from the talk all week,'' Hodson said. ''Our offensive line was offended by what Nebraska said. Everyone was intense. We just kept going after the whistle blew.''</p>
+        <p>Taylor capped a 9-play, 72-yard drive that required only 63 seconds by scoring on a 2-yard keeper to give the Cornhuskers the lead for good at 10-7 with only 39 seconds left in the first half.</p>
+        <p>SUGAR BOWL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

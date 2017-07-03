@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INTENSITY YIELDS DIVIDENDS</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="254"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="NEW FACES: RAY LIOTTA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">KLEIMAN, DENA</person>
+        <person class="indexing_service">LIOTTA, RAY</person>
+        <object.title class="indexing_service">SOMETHING WILD (MOVIE)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DC153EF931A35752C0A961948260" item-length="517" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INTENSITY YIELDS DIVIDENDS</hl1>
+      </hedline>
+      <byline class="print_byline">By DENA KLEIMAN</byline>
+      <byline class="normalized_byline">KLEIMAN, DENA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: RAY LIOTTA had been knocking on doors for eight years. He had tried his hand at commercials, landed a part on a television soap opera and even scored a role in a television movie of the week.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: RAY LIOTTA had been knocking on doors for eight years. He had tried his hand at commercials, landed a part on a television soap opera and even scored a role in a television movie of the week.</p>
+        <p>RAY LIOTTA had been knocking on doors for eight years. He had tried his hand at commercials, landed a part on a television soap opera and even scored a role in a television movie of the week.</p>
+        <p>But Mr. Liotta, who grew up in Newark and had moved to Los Angeles to break into the movies, was tired of having his sights set on feature films and repeatedly hearing the word ''no.''</p>
+        <p>That long-awaited ''yes'' finally came loud and clear last year when Jonathan Demme, the director, cast Mr. Liotta in his movie ''Something Wild.''</p>
+        <p>In that film, for which Mr. Liotta has received critical praise, he plays the part of a menacing ex-convict just released from jail who finds that his wife (Melanie Griffith) has taken up with another man (Jeff Daniels).</p>
+        <p>Clad in a tight-fitting black T-shirt and with a tattoo on his arm, Mr. Liotta as the character Ray Sinclair obsessively pursues the woman and kicks through a wall, throws Ms. Griffith into a swimming pool, breaks down a glass door, handcuffs Mr. Daniels to a kitchen sink and threatens them both with a knife.</p>
+        <p>How he landed this part, Mr. Liotta said, is a testament to his unswerving determination to make it as an actor as well as his conviction he was right for the part. 'I Knew I Wanted It'</p>
+        <p>''I like that kind of intensity,'' said the 32-year-old Mr. Liotta, who was drawn to acting in high school after giving up basketball. ''I like someone obsessed with doing something they think is right. I could relate with loving someone that much and wanting her back. As soon as I read the script. I knew I wanted it.'' It was late last fall that Mr. Liotta, who had played Joey Perrini in the television soap opera ''Another World,'' heard through some friends about a new script that was being circulated around Hollywood that was going to be directed by Mr. Demme. Admittedly far more instinctual than academic about his passion for acting, Mr. Liotta said he had heard of Mr. Demme but was not certain he had ever seen any of his films. The actor said when he read the script, he simply believed he was right for the role.</p>
+        <p>''I've played characters like this,'' said Mr. Liotta, a University of Miami graduate who considered going into the clothing business before committing himself to acting. ''Who can't relate to this?'' Dozens of Phone Calls</p>
+        <p>Mr. Liotta found out who was casting the film, went for a tryout, and was initially turned down.</p>
+        <p>But he said he felt so strongly about the part that he called Ms. Griffith, who was once married to a friend of his from college. It took dozens of calls before he reached her but once he did, Ms. Griffith in turn called Mr. Demme.</p>
+        <p>''By then I had done my work,'' Mr. Liotta recalled. ''Anything he had picked out I was ready to do.''</p>
+        <p>Mr. Liotta was called in by Mr. Demme on a Wednesday. Then Mr. Demme had him return on a Friday to read with Mr. Daniels.</p>
+        <p>The rapport, Mr. Liotta said, was instant.</p>
+        <p>''Still I had no idea what was going on,'' Mr. Liotta said. ''It was Super Bowl Sunday and Jonathan asked me to meet him for brunch. I don't think I dressed so quick in my life.''  NEW FACES: RAY LIOTTA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

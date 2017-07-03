@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leone and Visconti</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="261"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <classifier class="indexing_service" type="descriptor">FESTIVALS</classifier>
+        <person class="indexing_service">LEONE, SERGIO</person>
+        <person class="indexing_service">VISCONTI, LUCHINO</person>
+        <object.title class="indexing_service">ONCE UPON A TIME IN THE WEST (MOVIE)</object.title>
+        <object.title class="indexing_service">LEOPARD, THE (MOVIE)</object.title>
+        <object.title class="indexing_service">NEW YORK SHAKESPEARE FESTIVAL</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DE123EF931A35752C0A961948260" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leone and Visconti</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: ''Once Upon a Time in the West,'' a 1969 film by Sergio Leone, and ''The Leopard,'' a 1963 feature by Luchino Visconti, will be shown over the next two weeks at the New York Shakespeare Festival Public Theater, 425 Lafayette Street. The screenings will run daily through Jan. 15, except on Mondays; ''Once Upon a Time in the West'' will be shown at 6 P.M.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: ''Once Upon a Time in the West,'' a 1969 film by Sergio Leone, and ''The Leopard,'' a 1963 feature by Luchino Visconti, will be shown over the next two weeks at the New York Shakespeare Festival Public Theater, 425 Lafayette Street. The screenings will run daily through Jan. 15, except on Mondays; ''Once Upon a Time in the West'' will be shown at 6 P.M.</p>
+        <p>''Once Upon a Time in the West,'' a 1969 film by Sergio Leone, and ''The Leopard,'' a 1963 feature by Luchino Visconti, will be shown over the next two weeks at the New York Shakespeare Festival Public Theater, 425 Lafayette Street. The screenings will run daily through Jan. 15, except on Mondays; ''Once Upon a Time in the West'' will be shown at 6 P.M. and ''The Leopard'' at 9. There is a $5 admission to each film. Information: (212) 598-7150.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,114 @@
+O,lead
+O,:
+O,the
+O,trombonist
+PERSON,al grey
+O,and
+O,the
+O,saxophonist
+PERSON,buddy tate
+O,are
+O,leading
+O,their
+O,quintet
+O,,
+O,with
+PERSON,roland hanna
+O,on
+O,piano
+O,,
+O,tonight
+O,through
+O,sunday
+O,at
+O,the
+ORGANIZATION,village vanguard
+O,,
+O,178
+LOCATION,seventh avenue south
+O,,
+O,below
+O,11th
+O,street
+O,-lrb-
+O,212-255-4037
+O,-rrb-
+O,.
+O,sets
+O,begin
+O,at
+O,10
+O,and
+O,11:30
+O,p.m.
+O,and
+O,1
+O,a.m.
+O,;
+O,there
+O,is
+O,a
+O,$
+O,12
+O,cover
+O,and
+O,a
+O,$
+O,6
+O,minimum.the
+O,trombonist
+PERSON,al grey
+O,and
+O,the
+O,saxophonist
+PERSON,buddy tate
+O,are
+O,leading
+O,their
+O,quintet
+O,,
+O,with
+PERSON,roland hanna
+O,on
+O,piano
+O,,
+O,tonight
+O,through
+O,sunday
+O,at
+O,the
+ORGANIZATION,village vanguard
+O,,
+O,178
+LOCATION,seventh avenue south
+O,,
+O,below
+O,11th
+O,street
+O,-lrb-
+O,212-255-4037
+O,-rrb-
+O,.
+O,sets
+O,begin
+O,at
+O,10
+O,and
+O,11:30
+O,p.m.
+O,and
+O,1
+O,a.m.
+O,;
+O,there
+O,is
+O,a
+O,$
+O,12
+O,cover
+O,and
+O,a
+O,$
+O,6
+O,minimum
+O,.

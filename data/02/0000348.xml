@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cooke Gets 42 Cable Systems</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="348"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">CABLE TELEVISION</classifier>
+        <org class="indexing_service">MCCAW COMMUNICATIONS COS</org>
+        <person class="indexing_service">COOKE, JACK KENT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cable Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DC1731F931A35752C0A961948260" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cooke Gets 42 Cable Systems</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Jack Kent Cooke, the cable television pioneer and owner of the Washington Redskins football team, extended his holdings yesterday with the purchase of McCaw Communications Companies, a cable television operator.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Jack Kent Cooke, the cable television pioneer and owner of the Washington Redskins football team, extended his holdings yesterday with the purchase of McCaw Communications Companies, a cable television operator.</p>
+        <p>Jack Kent Cooke, the cable television pioneer and owner of the Washington Redskins football team, extended his holdings yesterday with the purchase of McCaw Communications Companies, a cable television operator.</p>
+        <p>The size of the all-cash deal was not disclosed.</p>
+        <p>McCaw, which describes itself as the nation's 20th-largest cable company, serves 433,000 subscribers through 42 systems. The company's largest franchises are in Tucson, Ariz., Syracuse and areas of Oregon and Washington state. Mr. Cooke called it ''the cornerstone of an ever-expanding media empire.'' Reassembling Media Empire</p>
+        <p>Mr. Cooke, 73 years old, began two years ago to acquire cable television and publishing holdings after retiring as chairman of Group W Cable. He lost a hostile takeover bid for Multimedia Inc., the Greenville, S.C., publisher and cablecaster, but made $24.5 million on the deal.</p>
+        <p>He bought the Los Angeles Daily News in 1985 and has made unsuccessful bids since then for The Evening News Association in Detroit and The Louisville Times and The Courier-Journal, Kentucky's largest newspapers.</p>
+        <p>Mr. Cooke, born in Canada, began his career in broadcast and publishing running a radio station in Stratford, Ontario, for the late Lord Thomson. He helped Lord Thomson assemble his broadcasting and publishing empire in Canada and the United States. Stint at Retirement</p>
+        <p>By 1960 Mr. Cooke had accumulated publishing and radio properties of his own, along with a minor league baseball team and Canada's largest plastics company. He sold his holdings and moved to the United States during a stint at retirement, but quickly returned to business with the founding of the American Cablevision Company in 1964.</p>
+        <p>He acquired a 12 percent stake in Teleprompter, then sold the company in 1981 to the Westinghouse Electric Corporation for more than $1 billion.</p>
+        <p>Among his other interests are the Elmendorf Farm thoroughbred breeding stables and the Chrysler and Kent buildings in New York City.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

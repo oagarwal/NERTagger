@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics: Matters of Appearance; Neatness Counts</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="277"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">WRITING AND WRITERS</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <location class="indexing_service">MARYLAND</location>
+        <object.title class="indexing_service">TOPICS (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maryland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DD133EF931A35752C0A961948260" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics: Matters of Appearance; Neatness Counts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A few weeks ago, the National Assessment of Educational Progress reported that, in addition to all their other skill deficiencies, American schoolchildren don't write very well. The state of Maryland now offers a possible explanation. The National Assessment must not have given credit for neatness and punctuation.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A few weeks ago, the National Assessment of Educational Progress reported that, in addition to all their other skill deficiencies, American schoolchildren don't write very well. The state of Maryland now offers a possible explanation. The National Assessment must not have given credit for neatness and punctuation.</p>
+        <p>A few weeks ago, the National Assessment of Educational Progress reported that, in addition to all their other skill deficiencies, American schoolchildren don't write very well. The state of Maryland now offers a possible explanation. The National Assessment must not have given credit for neatness and punctuation.</p>
+        <p>That, at least, is how such problems are solved in Maryland. The state adopted its ''functional writing test'' in 1983, with a view to possibly making it a graduation requirement. But the test was roundly criticized because so many students failed, including some who regularly get high grades for writing.</p>
+        <p>The protests led to a study by a special task force, and the state board of education recently approved giving credit for punctuation and neatness, as well as to grammar, logical development of ideas and other substantive criteria.</p>
+        <p>Previously, student writers of ''pretty papers'' got no reward, the chairman of the task force was quoted as saying. ''Now we're saying that if a student can write good sentences that don't say anything, it may not be good writing, but it is competent writing.''</p>
+        <p>Giving credit for appearance, as opposed to substance, certainly conveys a message about the way the world works. But is that really the sort of message a state's education system is supposed to teach?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

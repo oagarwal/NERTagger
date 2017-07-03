@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IRANIAN SETBACK STIRS FEARS THAT WAR MAY SPREAD</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="275"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ARMAMENT, DEFENSE AND MILITARY FORCES</classifier>
+        <classifier class="indexing_service" type="descriptor">MILITARY ACTION</classifier>
+        <classifier class="indexing_service" type="descriptor">FOREIGN AID</classifier>
+        <location class="indexing_service">IRAN</location>
+        <location class="indexing_service">IRAQ</location>
+        <location class="indexing_service">SAUDI ARABIA</location>
+        <location class="indexing_service">KUWAIT</location>
+        <location class="indexing_service">PERSIAN GULF</location>
+        <person class="indexing_service">MIDDLETON, DREW</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Kuwait</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Saudi Arabia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Kuwait</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Saudi Arabia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Aid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DF133EF931A35752C0A961948260" item-length="664" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IRANIAN SETBACK STIRS FEARS THAT WAR MAY SPREAD</hl1>
+      </hedline>
+      <byline class="print_byline">By DREW MIDDLETON</byline>
+      <byline class="normalized_byline">MIDDLETON, DREW</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The deadlock in the war between Iran and Iraq has raised fears that the conflict may spread to other Persian Gulf nations, according to reports by Western military officials stationed in the region.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The deadlock in the war between Iran and Iraq has raised fears that the conflict may spread to other Persian Gulf nations, according to reports by Western military officials stationed in the region.</p>
+        <p>The deadlock in the war between Iran and Iraq has raised fears that the conflict may spread to other Persian Gulf nations, according to reports by Western military officials stationed in the region.</p>
+        <p>Some predict that another Iranian reverse comparable in severity to the one suffered last week will force a frustrated Teheran to act against Iraq's paymasters, Saudi Arabia and Kuwait.</p>
+        <p>Such a reverse and even the defeat of the Iranian armies in the long-predicted ''final offensive'' is quite possible, according to one European intelligence organization, unless the Iranians alter their tactics and learn the lessons of their recent offensive operations.</p>
+        <p>According to this source, the Iranians suffered very heavy losses, including a high percentage of killed to wounded, because they insisted on exposing infantry to superior artillery and mortar fire and intermittent bombing by Iraqi aircraft. Iraq Retook Four Islands</p>
+        <p>After 36 hours of virtually incessant bombardment of the Iranians, the Iraqis were able to retake, with relatively light losses, four small islands in the Shatt al Arab waterway that had been briefly occupied by Iran.</p>
+        <p>Although each side made wildly exaggerated claims about the casualties suffered by the enemy, the consensus among NATO experts is that the total casualties were between 8,000 and 10,000 killed, wounded or missing. More than 65 percent were Iranian, according to one European military official who has monitored the war since it began in 1980. It is estimated that Iran lost 3,000 dead.</p>
+        <p>''The political and military leadership in Teheran seems unable to grasp the brutal fact that in war fanaticism and courage are not enough,'' this source said. ''They are attacking today exactly as they did in 1982, throwing thousands of half-trained boys against artillery, mortars and machine guns manned by steady troops. Until they begin to employ more subtle tactics, they will meet with little success.''</p>
+        <p>Iran's final major offensive, if it comes at all, is now expected in March. Western military analysts favor March, they say, because the ground will be too soft after seasonal rains during February for the rapid movement of Iraqi tanks and artillery. Iraq has numerical superiority in these weapons, the sources said. Iraqi Planes Had Minor Role</p>
+        <p>The Iraqi Air Force, which has established superiority over Persian Gulf and Iranian targets, played only a minor role in repulsing last week's offensive. Many air officers, while acknowledging the damage the air force has done to Iranian refineries and tankers, believe that from the strategic point of view it should shift to new targets.</p>
+        <p>They point out that the Iranians are still able to use the bridges across the Shatt al Arab, which runs from the confluence of the Tigris and Euphrates rivers to the Gulf. They say these bridges should be bombed because they could be used in a major ground offensive against Basra, which is Iraq's second largest city and the southern terminus of the main highway from Baghdad, the capital.</p>
+        <p>The same is true, air officers said, of the causeways built by the Iranians across the marshes northeast and east of Basra. These could be used by ground troops in any major attack on Basra.</p>
+        <p>If, as maintained, Iran has received a substantial amount of defensive weapons from the United States and Israel, Western experts on the Middle East point out that thus far the weapons have not been used extensively. Iraq's French-built Super-Etendard bombers ranged the Gulf and flew over Iran in December but encountered only two interceptors, American-made F-14's, which were shot down. Nor did they meet surface-to-air missile fire. Electronic Jammers Cited</p>
+        <p>One British official believes that the absence of missile fire is a result of Iraq's deployment of advanced electronic jammers obtained from France. These allow the bombers to penetrate the elaborate Hawk missile defenses that surround Teheran and most of the ports on the Gulf.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

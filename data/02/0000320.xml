@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Salute to Constitution Opens With Big Bang</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="320"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CONSTITUTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">FIREWORKS</classifier>
+        <location class="indexing_service">PHILADELPHIA (PA)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Philadelphia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Constitutions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fireworks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DA1E3EF931A35752C0A961948260" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Salute to Constitution Opens With Big Bang</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PHILADELPHIA, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Fireworks lighted the sky Wednesday night over Philadelphia's waterfront, welcoming the new year and touching off the city's yearlong celebration of the bicentennial of the United States Constitution with a bang.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Fireworks lighted the sky Wednesday night over Philadelphia's waterfront, welcoming the new year and touching off the city's yearlong celebration of the bicentennial of the United States Constitution with a bang.</p>
+        <p>Fireworks lighted the sky Wednesday night over Philadelphia's waterfront, welcoming the new year and touching off the city's yearlong celebration of the bicentennial of the United States Constitution with a bang.</p>
+        <p>After a crowd estimated by organizers at 20,000 counted down the final seconds of the old year, a 14-minute fireworks finale exploded over the Ben Franklin Bridge connecting Philadelphia and Camden, N.J.</p>
+        <p>The bridge was illuminated with special lights, and a 20-by 50-foot stationary display burst into red, white and blue letters reading: ''We The People 200,'' the first three words of the preamble to the Constitution and the name of the $17 million Constitutional Bicentennial celebration.</p>
+        <p>The fireworks finale was scheduled to be 13 minutes in honor of the 13 original states, but it lasted a minute longer.</p>
+        <p>As the first of more than 2,500 fireworks exploded, a procession of more than 1,000 people, led by Mayor W. Wilson Goode and the Olde Citie Fife and Drum Corps, marched from Independence Hall, where the Constitution was signed on Sept. 17, 1787, to Penn's Landing, along the Delaware River and next to the Ben Franklin Bridge.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

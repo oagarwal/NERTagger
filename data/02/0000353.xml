@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Edwin Joel Thomas, 87, Dies; Ex-President of of Goodyear</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="353"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">THOMAS, EDWIN J</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D81731F931A35752C0A961948260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Edwin Joel Thomas, 87, Dies; Ex-President of of Goodyear</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>AKRON, Ohio, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Edwin Joel Thomas, who was born here and grew up to become president and then chief executive officer and chairman of the Goodyear Tire and Rubber Company, died Tuesday at the Akron General Medical Center. He was 87 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Edwin Joel Thomas, who was born here and grew up to become president and then chief executive officer and chairman of the Goodyear Tire and Rubber Company, died Tuesday at the Akron General Medical Center. He was 87 years old.</p>
+        <p>Edwin Joel Thomas, who was born here and grew up to become president and then chief executive officer and chairman of the Goodyear Tire and Rubber Company, died Tuesday at the Akron General Medical Center. He was 87 years old.</p>
+        <p>Mr. Thomas served 16 years as president of the world's largest tire manufacturer, and his total service with Goodyear covered 55 years. His career began in May 1916, shortly before he was graduated from the local high school, as a part-time clerk.</p>
+        <p>Mr. Thomas was elected president in 1940, chief executive officer in 1956 and chairman in 1958. He retired from Goodyear in 1964 and from the company's board of directors in 1971.</p>
+        <p>He also was a director of the Procter &amp; Gamble Company for 14 years, the Armco Steel Corporation for 6 years, and Knight-Ridder Newspapers for 17 years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Philippine Issue Tops Winners List</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="321"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="WALL STREET IN 1986"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">STOCK PRICES AND TRADING VOLUME</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">AMERICAN STOCK EXCHANGE (ASE)</org>
+        <org class="indexing_service">PHILIPPINE LONG DISTANCE TELEPHONE CO</org>
+        <person class="indexing_service">WIGGINS, PHILLIP H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DA1E3EF931A35752C0A961948260" item-length="582" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Philippine Issue Tops Winners List</hl1>
+      </hedline>
+      <byline class="print_byline">By PHILLIP H. WIGGINS</byline>
+      <byline class="normalized_byline">WIGGINS, PHILLIP H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Winning issues on the American Stock Exchange consisted of a potpourri of industries, ranging from a fake-fingernail manufacturer, a film distributor and a home-furnishings company to a politically propelled issue, the Philippine Long Distance Telephone Company.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Winning issues on the American Stock Exchange consisted of a potpourri of industries, ranging from a fake-fingernail manufacturer, a film distributor and a home-furnishings company to a politically propelled issue, the Philippine Long Distance Telephone Company.</p>
+        <p>Winning issues on the American Stock Exchange consisted of a potpourri of industries, ranging from a fake-fingernail manufacturer, a film distributor and a home-furnishings company to a politically propelled issue, the Philippine Long Distance Telephone Company.</p>
+        <p>On the other hand, the list of big Amex losers was dominated by energy companies squeezed in the vise of oil-price weakness.</p>
+        <p>The Philippine Long Distance Telephone Company, the principal supplier of local and long distance telephone service in the Philippines, was by far the Amex's biggest percentage gainer as it nearly sextupled in price in the year, to close at $12.75. San Carlos Milling, another Philippine issue, also carved out a substantial percentage gain while ending in the 21st spot. Effect of U.S. Backing Cited</p>
+        <p>''The spectacular rise in these two stocks was unquestionably due to the strong political support in the United States for the new Aquino Government,'' said Thomas H. Dinsmore, president of the Bancroft Convertible Fund, a closed-end, Amex mutual fund that has closely tracked Philippine-rooted equities. He said these stocks had lanquished under the regime of President Ferdinand Marcos.</p>
+        <p>The other leading gainers on the Amex winners' list benefited from factors as varied as their businesses, including higher earnings, acquisition activity and new shopping trends.</p>
+        <p>Analysts said the precipitous collapse of oil and gas prices in the first half of the year adversely affected many smaller exploration, production and service companies.</p>
+        <p>''Highly leveraged balance sheets continued to make matters even worse,'' said Barry Sahgal, oil analyst at Ladenburg, Thalmann &amp; Company. ''The recent flurry in petroleum prices will most likely be a painfully deceptive mirage for many players in this industry.'' 'Financial Darwinism' Expected</p>
+        <p>He said the future of the oil industry will probably be ''an exercise in financial Darwinism, with survival of the fittest being assured.''</p>
+        <p>Hardest hit from an equity-depreciation standpoint was Houston-based Convest Energy Partners, a limited partnership stemming from the mid-1985 exchange offer for interests in oil and gas drilling and income and limited partnerships previously set up by the Convest Energy Corporation.</p>
+        <p>In July of last year, Convest Energy suspended quarterly cash dividends in the wake of the sharp decline in oil and gas prices.</p>
+        <p>The second-biggest Amex loser was the Dallas-based NRM Energy Company, sole general partner of the Natural Resources Management Corporation. The partnership recently agreed to acquire $83.5 million of oil and gas assets from Mesa Limited Partnership for 35 to 40 percent of NRM's outstanding depository units. #1986 Expansions Last year saw the Amex name Kenneth R. Leibler as its 22d president, offer a new institutional index option, open a European office and begin expanding its trading floor.</p>
+        <p>For the year the Amex market value index rose 17.14 points, or 6.96 percent, to 263.27, from 246.13 on Dec. 31, 1985.</p>
+        <p>As a financial marketplace, the American Stock Exchange said it had accomplished the following in 1986:</p>
+        <p>* Registered its highest yearly share volume in history by Sept. 4, surpassing the annual record of 2.1 billion set in 1985.</p>
+        <p>* Set a record in total options volume for the the 11th straight year.</p>
+        <p>* Recorded the highest number of new listings since 1972.</p>
+        <p>It also posted its highest net income in history, with profitability of $8.5 billion in the first 10 months.</p>
+        <p>WALL STREET IN 1986</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

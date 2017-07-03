@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hong Kong Stocks</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="271"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">STOCK PRICES AND TRADING VOLUME</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <location class="indexing_service">HONG KONG</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Hong Kong</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD9123EF931A35752C0A961948260" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hong Kong Stocks</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>HONG KONG, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Hong Kong share prices ended 1986 at a record high, and analysts predicted further gains in 1987. The Hang Seng index, the main market index, rose more than 8 points, to 2,568.30, on the last day of 1986, leaving it more than 800 points above the 1985 finish. Brokers said that prices were buoyed by demand from small investors and big investment funds, which were encouraged by low local interest rates and a weak Hong Kong dollar, a factor that aids the colony's exports.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Hong Kong share prices ended 1986 at a record high, and analysts predicted further gains in 1987. The Hang Seng index, the main market index, rose more than 8 points, to 2,568.30, on the last day of 1986, leaving it more than 800 points above the 1985 finish. Brokers said that prices were buoyed by demand from small investors and big investment funds, which were encouraged by low local interest rates and a weak Hong Kong dollar, a factor that aids the colony's exports.</p>
+        <p>Hong Kong share prices ended 1986 at a record high, and analysts predicted further gains in 1987. The Hang Seng index, the main market index, rose more than 8 points, to 2,568.30, on the last day of 1986, leaving it more than 800 points above the 1985 finish. Brokers said that prices were buoyed by demand from small investors and big investment funds, which were encouraged by low local interest rates and a weak Hong Kong dollar, a factor that aids the colony's exports.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

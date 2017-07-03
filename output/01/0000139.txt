@@ -1,0 +1,273 @@
+O,lead
+O,:
+O,*
+ORGANIZATION,carter hawley hale stores inc.
+O,,
+LOCATION,los angeles
+O,,
+O,said
+O,it
+O,had
+O,completed
+O,the
+O,sale
+O,of
+O,its
+O,subsidiary
+PERSON,john wanamaker
+O,to
+ORGANIZATION,woodward & lothrop inc.
+O,*
+ORGANIZATION,carter hawley hale stores inc.
+O,,
+LOCATION,los angeles
+O,,
+O,said
+O,it
+O,had
+O,completed
+O,the
+O,sale
+O,of
+O,its
+O,subsidiary
+PERSON,john wanamaker
+O,to
+ORGANIZATION,woodward & lothrop inc.
+O,*
+ORGANIZATION,coopervision inc.
+O,,
+LOCATION,palo alto , calif.
+O,,
+O,said
+O,it
+O,had
+O,completed
+O,the
+O,sale
+O,of
+O,its
+O,ophthalmic
+O,pharmaceutical
+O,business
+O,to
+ORGANIZATION,johnson & johnson
+O,for
+O,about
+O,$
+O,260
+O,million
+O,in
+O,cash
+O,.
+O,*
+ORGANIZATION,goodyear tire and rubber co.
+O,,
+LOCATION,akron
+O,,
+LOCATION,ohio
+O,,
+O,said
+O,it
+O,had
+O,agreed
+O,to
+O,sell
+O,its
+ORGANIZATION,motor wheel corp.
+O,unit
+O,to
+O,a
+O,group
+O,led
+O,by
+ORGANIZATION,goodyear
+O,management
+O,for
+O,an
+O,undisclosed
+O,amount
+O,.
+O,*
+ORGANIZATION,household international inc.
+O,said
+O,it
+O,had
+O,completed
+O,the
+O,sale
+O,of
+O,its
+ORGANIZATION,national car rental system
+O,unit
+O,for
+O,$
+O,459
+O,million
+O,to
+O,an
+O,investor
+O,group
+O,led
+O,by
+ORGANIZATION,paine webber capital inc.
+O,,
+O,a
+O,subsidiary
+O,of
+ORGANIZATION,paine webber group inc. * k mart corp.
+O,,
+O,troy
+O,,
+LOCATION,mich.
+O,,
+O,said
+O,it
+O,had
+O,completed
+O,the
+O,sale
+O,of
+PERSON,furr
+O,'s
+O,cafeterias
+O,and
+O,bishop
+O,buffets
+O,to
+O,cavalcade
+O,holdings
+O,for
+O,$
+O,237.5
+O,million
+O,.
+O,*
+ORGANIZATION,marriott corp.
+O,,
+LOCATION,washington
+O,,
+O,said
+O,it
+O,had
+O,acquired
+O,the
+O,424-room
+ORGANIZATION,mandalay four seasons hotel
+O,in
+LOCATION,irving
+O,,
+LOCATION,tex.
+O,,
+O,for
+O,an
+O,undisclosed
+O,price
+O,.
+O,*
+ORGANIZATION,stanley works
+O,,
+LOCATION,new britain
+O,,
+LOCATION,conn.
+O,,
+O,said
+O,it
+O,had
+O,purchased
+O,selected
+O,assets
+O,of
+ORGANIZATION,national hand tool corp.
+O,for
+O,about
+O,$
+O,80
+O,million
+O,.
+O,*
+ORGANIZATION,sun chemical corp.
+O,said
+O,it
+O,had
+O,completed
+O,the
+O,sale
+O,of
+O,its
+ORGANIZATION,graphic arts materials group
+O,to
+ORGANIZATION,dainippon ink and chemicals inc.
+O,for
+O,about
+O,$
+O,550
+O,million
+O,in
+O,cash
+O,.
+O,*
+ORGANIZATION,texas american bancshares inc.
+O,,
+LOCATION,fort worth
+O,,
+O,said
+O,it
+O,had
+O,signed
+O,an
+O,agreement
+O,to
+O,sell
+O,its
+O,credit
+O,card
+O,portfolio
+O,of
+O,about
+O,$
+O,50
+O,million
+O,and
+O,130,000
+O,accounts
+O,to
+ORGANIZATION,republicbank delaware
+O,,
+O,a
+O,unit
+O,of
+ORGANIZATION,republicbank corp.
+O,*
+ORGANIZATION,williams cos.
+O,,
+LOCATION,tulsa
+O,,
+LOCATION,okla.
+O,,
+O,said
+O,it
+O,had
+O,completed
+O,the
+O,sale
+O,of
+O,nearly
+O,all
+O,assets
+O,of
+O,its
+ORGANIZATION,williams exploration co.
+O,and
+ORGANIZATION,northwest exploration co.
+O,subsidiaries
+O,to
+ORGANIZATION,fina oil and chemical co.
+O,and
+ORGANIZATION,american cometra inc.
+O,for
+O,about
+O,$
+O,150
+O,million
+O,.

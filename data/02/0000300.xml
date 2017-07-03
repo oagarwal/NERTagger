@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sally S. Ronk Is Dead; Ex-Treasury Economist</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="300"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">RONK, SALLY S</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DC103EF931A35752C0A961948260" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sally S. Ronk Is Dead; Ex-Treasury Economist</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Sally Stewart Ronk, a retired economist at the United States Treasury Department, where she was head of the office of debt analysis, died after a long illness Sunday at St. Vincent's Hospital. She was 74 years old and a resident of Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Sally Stewart Ronk, a retired economist at the United States Treasury Department, where she was head of the office of debt analysis, died after a long illness Sunday at St. Vincent's Hospital. She was 74 years old and a resident of Manhattan.</p>
+        <p>Sally Stewart Ronk, a retired economist at the United States Treasury Department, where she was head of the office of debt analysis, died after a long illness Sunday at St. Vincent's Hospital. She was 74 years old and a resident of Manhattan.</p>
+        <p>From 1945 to 1970, Mrs. Ronk was an economist at the Bankers Trust Company in Manhattan and prepared an annual report, ''The Investment Outlook.'' She became a vice president in 1968 and was one of the few female economists in the country to hold such a post with a major bank.</p>
+        <p>In 1970, Mrs. Ronk joined the investment securities concern of Drexel Firestone, now Drexel Burnham Lambert Inc., as a vice president and chief economist.</p>
+        <p>She joined the Treasury Department in 1974 in Washington, remaining there until her retirement in 1985.</p>
+        <p>Mrs. Ronk was born in Newtonville, Mass., and was a graduate of Smith College. She earned a master's degree and a doctorate at the Graduate School of Business Administration of New York University.</p>
+        <p>She is survived by a daughter, Susan Gossen, of Manhattan; a son, Stewart V., of Roslyn, L.I.; a sister, Jane S. Ramee, of Washington; three brothers, Charles B. Stewart, of Seattle, Gilbert H. Stewart Jr., of Haddonville, N.J., and Hamilton Stewart, of Pompton Plains, N.J., and four grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

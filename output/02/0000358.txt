@@ -1,0 +1,137 @@
+O,lead
+O,:
+ORGANIZATION,interracial action
+O,in
+O,queensinterracial
+O,action
+O,in
+O,queensan
+O,interracial
+O,group
+O,called
+ORGANIZATION,concerned citizens of south queens
+O,,
+O,formed
+O,by
+O,civic
+O,and
+O,religious
+O,leaders
+O,and
+O,the
+O,area
+O,'s
+O,congressman-elect
+O,,
+O,the
+O,rev.
+PERSON,floyd h. flake
+O,,
+O,is
+O,to
+O,propose
+O,measures
+O,to
+O,relieve
+O,tensions
+O,in
+O,the
+O,wake
+O,of
+O,the
+LOCATION,howard beach
+O,attack
+O,.
+O,among
+O,the
+O,ideas
+O,are
+O,a
+O,community
+O,newsletter
+O,,
+O,a
+O,petition
+O,to
+O,the
+ORGANIZATION,board of education
+O,for
+O,a
+O,new
+O,curriculum
+O,on
+O,racial
+O,awareness
+O,,
+O,and
+O,more
+O,sports
+O,and
+O,cultural
+O,exchanges
+O,between
+O,white
+O,and
+O,black
+O,youths
+O,.
+O,11
+O,a.m.
+O,,
+LOCATION,st. helen
+O,'s
+ORGANIZATION,roman catholic church
+O,,
+O,157th
+O,avenue
+O,and
+LOCATION,84th street
+O,,
+PERSON,howard beach
+O,.
+O,marking
+O,end
+O,of
+O,hanukkahlighting
+O,,
+O,with
+O,the
+O,aid
+O,of
+O,a
+O,cherry
+O,picker
+O,lent
+O,by
+O,the
+ORGANIZATION,consolidated edison company
+O,of
+O,the
+O,eighth
+O,candle
+O,of
+O,the
+O,32-foot-high
+O,hanukkah
+O,menorah
+O,at
+ORGANIZATION,grand army plaza
+O,will
+O,mark
+O,the
+O,final
+O,day
+O,of
+O,the
+O,festival
+O,of
+O,lights
+O,.
+O,3:44
+O,p.m.
+O,,
+LOCATION,fifth avenue
+O,and
+O,59th
+O,street
+O,.

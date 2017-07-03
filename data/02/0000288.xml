@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drug Agent Slain in Texas</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="288"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DRUG ADDICTION AND ABUSE</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOOTINGS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">MCALLEN (TEX)</location>
+        <org class="indexing_service">DRUG ENFORCEMENT ADMINISTRATION (DEA)</org>
+        <person class="indexing_service">RAMOS, WILLIAM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD9133EF931A35752C0A961948260" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drug Agent Slain in Texas</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>McALLEN, Tex., Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: An agent of the Drug Enforcement Administration was shot to death while trying to arrest a narcotics suspect and a 29-year-old man was under guard at a hospital today in the shooting, the authorities said. The agent was William Ramos, 30 years old. The authorities said that the man in custody had a gunshot wound in the right leg and that no charges had been filed.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: An agent of the Drug Enforcement Administration was shot to death while trying to arrest a narcotics suspect and a 29-year-old man was under guard at a hospital today in the shooting, the authorities said. The agent was William Ramos, 30 years old. The authorities said that the man in custody had a gunshot wound in the right leg and that no charges had been filed.</p>
+        <p>An agent of the Drug Enforcement Administration was shot to death while trying to arrest a narcotics suspect and a 29-year-old man was under guard at a hospital today in the shooting, the authorities said. The agent was William Ramos, 30 years old. The authorities said that the man in custody had a gunshot wound in the right leg and that no charges had been filed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

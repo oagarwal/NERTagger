@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports Today</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="260"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEED7153EF931A35752C0A961948260" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports Today</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: BASKETBALL NETS VS. PISTONS, at Pontiac, Mich., 7:30 P.M. (TV -SportsChannel, 7:30 P.M. Radio - WNEW 1130, 7:20 P.M.) FOOTBALL FIESTA BOWL, Miami vs. Penn State, at Tempe, Ariz., 8 P.M. (TV - Channel 4, 8 P.M.) HOCKEY DEVILS VS. BOSTON BRUINS, at Byrne Meadowlands Arena, 7:35P.M. (Radio - WMCA 570, 7:30 P.M.) OTHER EVENTS BOXING: Terrence Alli vs.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: BASKETBALL NETS VS. PISTONS, at Pontiac, Mich., 7:30 P.M. (TV -SportsChannel, 7:30 P.M. Radio - WNEW 1130, 7:20 P.M.) FOOTBALL FIESTA BOWL, Miami vs. Penn State, at Tempe, Ariz., 8 P.M. (TV - Channel 4, 8 P.M.) HOCKEY DEVILS VS. BOSTON BRUINS, at Byrne Meadowlands Arena, 7:35P.M. (Radio - WMCA 570, 7:30 P.M.) OTHER EVENTS BOXING: Terrence Alli vs.</p>
+        <p>BASKETBALL NETS VS. PISTONS, at Pontiac, Mich., 7:30 P.M. (TV -SportsChannel, 7:30 P.M. Radio - WNEW 1130, 7:20 P.M.) FOOTBALL FIESTA BOWL, Miami vs. Penn State, at Tempe, Ariz., 8 P.M. (TV - Channel 4, 8 P.M.) HOCKEY DEVILS VS. BOSTON BRUINS, at Byrne Meadowlands Arena, 7:35P.M. (Radio - WMCA 570, 7:30 P.M.) OTHER EVENTS BOXING: Terrence Alli vs. Roberto Medina, lightweights, 10 rounds at Resorts International Hotel, Atlantic City, (TV -ESPN, 9 P.M.) COLLEGE BASKETBALL: Arizona at Oregon State (TV -ESPN, 11P.M.) GOLF: FILA Invitational, at Ft. Myers, Fla. (TV - ESPN, 1 P.M.) HARNESS RACING: Yonkers, 8P.M. Meadowlands, 7:30 P.M. SOCCER: Express vs. Dallas Sidekicks, at Nassau Coliseum, 8:05 P.M. (Radio - WBAU-FM 90.3, 7:45 P.M.) TENNIS: International Junior Tournament, at Port Washington Tennis Academy, Port Washington, L.I. THOROUGHBRED RACING: Aqueduct, 12:30 P.M. (TV -SportsChannel, 6:30 P.M. and 11:30 P.M.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

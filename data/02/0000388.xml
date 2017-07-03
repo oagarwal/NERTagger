@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Zapata Posts a Loss</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="388"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">ZAPATA CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0D71331F931A35752C0A961948260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Zapata Posts a Loss</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>DALLAS, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Zapata Corporation, an offshore drilling rig operator and commercial fishing concern, said that it had a loss of $159.8 million for the quarter ended Sept. 30 on revenue of $60.9 million. It cited an ''unprecedented downturn in the energy industry.'' Zapata said its bank lenders had agreed to extend until Feb.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Zapata Corporation, an offshore drilling rig operator and commercial fishing concern, said that it had a loss of $159.8 million for the quarter ended Sept. 30 on revenue of $60.9 million. It cited an ''unprecedented downturn in the energy industry.'' Zapata said its bank lenders had agreed to extend until Feb.</p>
+        <p>The Zapata Corporation, an offshore drilling rig operator and commercial fishing concern, said that it had a loss of $159.8 million for the quarter ended Sept. 30 on revenue of $60.9 million. It cited an ''unprecedented downturn in the energy industry.'' Zapata said its bank lenders had agreed to extend until Feb. 28 the deferral of debt payments. For the fiscal year ended Sept. 30, the Houston-based company had losses totaling $250.9 million on revenue of $219.8 million. It lost $71.2 million in 1985, when revenue totaled $288.7 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

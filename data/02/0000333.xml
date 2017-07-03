@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RUGGED TASK AFTER INJURIES</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="333"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="KOSAR AND GASTINEAU POISED FOR CLASH IN BROWNS-JETS GAME"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">PLAYOFF GAMES</classifier>
+        <org class="indexing_service">NEW YORK JETS</org>
+        <org class="indexing_service">CLEVELAND BROWNS</org>
+        <person class="indexing_service">ESKENAZI, GERALD</person>
+        <person class="indexing_service">GASTINEAU, MARK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Cleveland Browns</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Jets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DE1F3EF931A35752C0A961948260" item-length="556" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RUGGED TASK AFTER INJURIES</hl1>
+      </hedline>
+      <byline class="print_byline">By GERALD ESKENAZI, Special to the New York Times</byline>
+      <byline class="normalized_byline">ESKENAZI, GERALD</byline>
+      <dateline>HEMPSTEAD, L.I., Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: In his most disappointing season, Mark Gastineau suddenly looms again as the Jet who must make the big play on defense.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: In his most disappointing season, Mark Gastineau suddenly looms again as the Jet who must make the big play on defense.</p>
+        <p>In his most disappointing season, Mark Gastineau suddenly looms again as the Jet who must make the big play on defense.</p>
+        <p>Bud Carson, the defensive coordinator, explained today that he is relying on his line -not blitzing tactics - to pressure Bernie Kosar when the Jets face the Browns in Cleveland Saturday in a divisional playoff game.</p>
+        <p>Because Kosar is so good at finding the uncovered receiver quickly, the Jets probably cannot afford to send linebackers or defensive backs charging after him.</p>
+        <p>The last time the teams met in Cleveland, two years ago, Gastineau helped preserve a 24-20 victory with two sacks of Paul McDonald on the final Cleveland drive.</p>
+        <p>Last year, facing Kosar for the first time, Gastineau was the American Football Conference player of the week in a playoff-clinching victory with a sack, six pressures, seven tackles and a forced fumble. Hobbled by Injuries</p>
+        <p>It has been some time since Gastineau was a force in a game. In an injury-plagued 1986 season, he produced only two sacks in 10 games. He was first troubled with a strained abdominal muscle, and then he missed the five final regular-season games because of arthroscopic knee surgery.</p>
+        <p>In Kosar, the Jets are facing a quarterback who has been dumped only seven times in his last five games, who has the best record in the league for avoiding interceptions, and who, simply, can get rid of the ball so quickly that defenders can't afford to blitz him.</p>
+        <p>That leaves the potential pressure up to the Jets' defensive line - especially Gastineau. No one else on the team is consistently dangerous in providing quarterback sacks or pressure.</p>
+        <p>In fact, Gastineau takes a ribbing from teammates over the fact that the leading sacker on the Jets right now happens to be Bobby Humphery, a defensive back converted from wide receiver. He had four during the season - 18 fewer than the record Gastineau established in 1984.</p>
+        <p>''It's only my second game back, it's going to take me one more game,'' Gastineau said today, obviously expecting to get past the Browns and into the American Conference championship game.</p>
+        <p>Gastineau says he is over the abdominal-muscle strain that hindered his pass rush this year, and he said that the fact he is 20 pounds lighter has brought back his old quickness. Achieved Sack Against Chiefs</p>
+        <p>He returned from the surgery for last Sunday's wild-card game against the Chiefs and quickly produced a sack after Tom Baldwin helped collapse the protective quarterback pocket.</p>
+        <p>Does that one sack indicate that Gastineau can again pressure the quarterback?</p>
+        <p>''The best thing for me is to keep my mouth shut, and after the Cleveland game we'll see,'' said Gastineau. ''I'm a firm believer in this team, and this could be the biggest letdown of my life if we don't win right now.''</p>
+        <p>Gastineau said he might change his rushing technique to overcome problems he had against the Chiefs.</p>
+        <p>Kansas City's left tackle, Irv Eatman, several times leveled the rushing Gastineau with blocks at knee level.</p>
+        <p>''It's something he wouldn't have done unless he knew I was hurt,'' said Gastineau. ''They're going to go for my legs.'' To counter that, Gastineau said, ''you jump over him. I was a little bit hesitant because it was my first week back. Maybe this week I'll do it. It's normal to be hesitant after you've been in the hospital.''  KOSAR AND GASTINEAU POISED FOR CLASH IN BROWNS-JETS GAME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

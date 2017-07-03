@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>O'Neill Calls President An Ill-Informed Leader</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="397"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">ARMS SALES ABROAD</classifier>
+        <location class="indexing_service">IRAN</location>
+        <person class="indexing_service">O'NEILL, THOMAS P JR (SPEAKER)</person>
+        <person class="indexing_service">LAXALT, PAUL (SEN)</person>
+        <person class="indexing_service">REAGAN, RONALD WILSON (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arms Sales Abroad</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DF1031F931A35752C0A961948260" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>O'Neill Calls President An Ill-Informed Leader</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>BOSTON, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: President Reagan is an ill-informed leader whose luck has run out since the disclosure of the Iran arms sale crisis, Thomas P. O'Neill, the Speaker of the House who is retiring, said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: President Reagan is an ill-informed leader whose luck has run out since the disclosure of the Iran arms sale crisis, Thomas P. O'Neill, the Speaker of the House who is retiring, said today.</p>
+        <p>President Reagan is an ill-informed leader whose luck has run out since the disclosure of the Iran arms sale crisis, Thomas P. O'Neill, the Speaker of the House who is retiring, said today.</p>
+        <p>''Of all the eight presidents I've known, on any issue, he knows less than any President I've ever met or has been in the White House,'' Mr. O'Neill said in an interview with a television station in Boston.</p>
+        <p>''He's been lucky,'' Mr. O'Neill said. ''He's been built by the media of America.''</p>
+        <p>Mr. O'Neill said he told Senator Paul Laxalt, Republican of Nevada, before Mr. Reagan's re-election in 1984 that the President would stumble in his second term.</p>
+        <p>''He's going to stumble because you know and I know that he hasn't got the talent, he hasn't got the ability, that he's been lucky,'' Mr. O'Neill said he told the Mr. Laxalt, who is a close friend of Mr. Reagan. ''Somewhere along the line, he's going to stumble, and the American people are going to find out how that White House really operates.''</p>
+        <p>Mr. O'Neill said he considered President Carter ''the most brilliant man I ever met, absolutely the most talented. He had the worst staff around him I ever saw. He could have accomplished so much.''</p>
+        <p>The Speaker also said Senator Gary Hart of Colorado was leading the race for the 1988 Democratic Presidential nomination.</p>
+        <p>''He's going to be hard to beat,'' Mr. O'Neill said, adding, ''He's not my cup of tea.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

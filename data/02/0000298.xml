@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>European Anger At 'Ramboism'</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="298"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="ECONOMIC SCENE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">CUSTOMS (TARIFF)</classifier>
+        <classifier class="indexing_service" type="descriptor">PROTECTIONISM (TRADE)</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">EUROPE, WEST</location>
+        <org class="indexing_service">EUROPEAN ECONOMIC COMMUNITY (EEC) (COMMON MARKET)</org>
+        <person class="indexing_service">REAGAN, RONALD WILSON (PRES)</person>
+        <person class="indexing_service">SILK, LEONARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs (Tariff)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs (Tariff)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Protectionism (Trade)</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DD103EF931A35752C0A961948260" item-length="863" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>European Anger At 'Ramboism'</hl1>
+      </hedline>
+      <byline class="print_byline">By Leonard Silk</byline>
+      <byline class="normalized_byline">SILK, LEONARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: WILL the new year bring a trade war?</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: WILL the new year bring a trade war?</p>
+        <p>WILL the new year bring a trade war?</p>
+        <p>That danger has come closer with the announcement by the Reagan Administration that it will impose, by the end of this month, 200 percent tariffs on a broad variety of European goods, including French wine, British gin and Danish cheese.</p>
+        <p>The Europeans have reacted angrily; the French trade minister accused the United States of ''choosing the Rambo method.'' The European Community has vowed to retaliate by imposing counter-tariffs on American imports.</p>
+        <p>But the United States seems ready to take that risk rather than let stalled negotiations over a tariff dispute resulting from Spain's entry into the Community drag on much longer. To join the Community, Spain was required to impose tariffs on imported grains, which, according to the United States, will cost American farmers at least $400 million in lost sales. The Europeans say the United States estimate is too high.</p>
+        <p>Is the American move just a bargaining ploy? Clayton K. Yeutter, the United States Trade Representative, said he ''wouldn't give odds'' on whether the proposed American tariffs would actually come into effect. He expects a counteroffer from the Europeans before the tariffs are imposed Jan. 30. But he denies that the United States is bluffing.</p>
+        <p>Obviously, no poker player but a lunatic ever announces that he is bluffing. Nevertheless, there is no reason to think the United States is merely bluffing - and many reasons to believe it has decided to adopt a tougher position toward the Europeans and also toward the Japanese, the Koreans, the Canadians, or any other country, to gain what it considers fairer treatment and greater market access for American exports. If this is Ramboism, so be it; but its objective is still to open markets, not to seal them off.</p>
+        <p>Confidence that the trade deficit is improving may be running out. The Commerce Department announced this week that the United States deficit on merchandise trade climbed to a record $19.2 billion; imports were $37.8 billion, twice as much as United States exports of $18.6 billion. This report has shaken the Government and private economists who hoped the apparent improvement in the preceding three months marked a turn for the better in the trade deficit.</p>
+        <p>Despite the fall in the dollar, the trade deficit in 1986 is estimated to have hit an all-time high of more than $170 billion, up from $148.5 billion in 1985. That translates into hundreds of thousands of lost jobs, lost income and threats to the survival of American farmers and industries.</p>
+        <p>Just to achieve the modest growth forecast by the Administration for 1987 - 3.2 percent for real gross national product and 2 percent for the manufacturing sector - the Government is counting on a $30 billion to $40 billion improvement in the trade deficit. If that does not materialize, there would be a greater risk of recession, higher unemployment and a deeper budget deficit. The Administration's strategy of trying to reduce the trade deficit by depreciating the dollar and trying to preserve open trade would be blown out of the water.</p>
+        <p>Politically, the Administration does not have much time to get out in front on the trade issue. The loss of control of the Senate to the Democrats will make it harder for President Reagan to block protectionist legislation in the coming year. That is one reason that the Administration, without waiting for Congress to act, has confronted the Europeans with what amounts to an ultimatum on imposing the 200 percent tariffs by the end of this month.</p>
+        <p>Whether this ultimatum leads to a trade war will depend on how seriously the Europeans take the American threat, how they see their interests ultimately affected and how committed they really are to preserving the essentially, if imperfectly, open trading system that has contributed so much to world economic development in the postwar period.</p>
+        <p>West Germany and the other European countries and Japan and the newly industrialized countries of East Asia, which have relied on an export-oriented strategy, have experienced the greatest growth in their history.</p>
+        <p>But that export strategy for growth depended, more and more, on the willingness and capacity of importing countries to increase their debts. The threatened world debt debacle, the slowdown of economic growth and the emergence of gluts throughout the world in industry and agriculture are intensifying strains on the open trading system.</p>
+        <p>Recognizing the dangers of another breakdown in that system, such as the one that shattered the world economy in the 1930's, the United States, the Europeans and the Japanese unquestionably do not want an all-out trade war.</p>
+        <p>The present pulling and tugging between America and Europe could turn out to be a ''phony war,'' aimed at protecting particular economic interests and appeasing political pressures, but without inflicting too much damage on other countries.</p>
+        <p>However, what may begin as a ''phony war,'' the term used to describe the seeming stalemate on the Western front in Europe during the early months of World War II, could erupt into an all-out trade war. Nations go all out when they feel their most important interests threatened.</p>
+        <p>ECONOMIC SCENE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

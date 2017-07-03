@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Effort by Wells For Benson &amp; Hedges</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="421"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="ADVERTISING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SMOKING</classifier>
+        <org class="indexing_service">WELLS RICH GREENE INC</org>
+        <org class="indexing_service">PHILIP MORRIS COMPANIES</org>
+        <person class="indexing_service">BASLER, BARBARA</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D91E31F931A35752C0A961948260" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Effort by Wells For Benson &amp; Hedges</hl1>
+      </hedline>
+      <byline class="print_byline">By Barbara Basler</byline>
+      <byline class="normalized_byline">BASLER, BARBARA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Wells, Rich, Greene, which has handled the Benson &amp; Hedges account since Philip Morris introduced the cigarette in 1966, has targeted an adult audience for a national campaign scheduled to break this month in magazines and newspapers.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Wells, Rich, Greene, which has handled the Benson &amp; Hedges account since Philip Morris introduced the cigarette in 1966, has targeted an adult audience for a national campaign scheduled to break this month in magazines and newspapers.</p>
+        <p>Wells, Rich, Greene, which has handled the Benson &amp; Hedges account since Philip Morris introduced the cigarette in 1966, has targeted an adult audience for a national campaign scheduled to break this month in magazines and newspapers.</p>
+        <p>The new campaign apparently impressed the Benson &amp; Hedges people enough that they dropped any ideas of shopping around for a new agency.</p>
+        <p>ADVERTISING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pinola Took Bank Deal Personally</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="365"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="BUSINESS PEOPLE: 1986'S NEWSMAKERS IN FINANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">BANKAMERICA CORP</org>
+        <org class="indexing_service">FIRST INTERSTATE BANCORP</org>
+        <person class="indexing_service">PINOLA, JOSEPH J</person>
+        <object.title class="indexing_service">BUSINESS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D91231F931A35752C0A961948260" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pinola Took Bank Deal Personally</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The typical language of the corporate takeover - protracted losses, undervalued assets, a depressed stock price - has been applied to the discussion of First Interstate Bancorp's $3.2 billion bid for the BankAmerica Corporation. But both colleagues and critics of Joseph J. Pinola, First Interstate's 61-year-old chairman, also use such words as ego, affection and revenge.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The typical language of the corporate takeover - protracted losses, undervalued assets, a depressed stock price - has been applied to the discussion of First Interstate Bancorp's $3.2 billion bid for the BankAmerica Corporation. But both colleagues and critics of Joseph J. Pinola, First Interstate's 61-year-old chairman, also use such words as ego, affection and revenge.</p>
+        <p>The typical language of the corporate takeover - protracted losses, undervalued assets, a depressed stock price - has been applied to the discussion of First Interstate Bancorp's $3.2 billion bid for the BankAmerica Corporation. But both colleagues and critics of Joseph J. Pinola, First Interstate's 61-year-old chairman, also use such words as ego, affection and revenge.</p>
+        <p>Mr. Pinola began his banking career in 1952 at the Bank of America, and in 23 years rose to one of the top six jobs at what was then the largest United States bank. After he was passed over to succeed A. W. Clausen as chief executive - the job went to Samuel H. Armacost - Mr. Pinola left in 1976 to lead the United California Bank, which is now the First Interstate Bank of California.</p>
+        <p>And now Mr. Armacost is out, Mr. Clausen is back in control, and Mr. Pinola is again seeking to succeed his former boss.</p>
+        <p>''Joe's got a soft spot in his heart for Bank of America,'' said G. Robert Truex Jr., the chairman of the Rainier Bancorporation of Seattle, who was previously at BankAmerica. ''He'd like to be the guy on the white charger who saves it.''</p>
+        <p>If he does pull off a successful merger and secure Federal approval, Mr. Pinola would face new challenges. From commanding a $50 billion regional company, he would head a $170 billion institution that would be second in size only to Citicorp.</p>
+        <p>No one doubts his stamina. Mr. Clausen has few kind words today for Mr. Pinola, whom he has accused of using ''reckless'' and possibly illegal takeover tactics. But before merger talks turned hostile and before he returned to BankAmerica, Mr. Clausen praised his former employee. ''He works very hard, he's willing to make sacrifices, and he knows what he wants,'' Mr. Clausen said.</p>
+        <p>BUSINESS PEOPLE: 1986'S NEWSMAKERS IN FINANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

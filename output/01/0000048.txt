@@ -1,0 +1,242 @@
+O,lead
+O,:
+PERSON,kathleen mcnamara
+O,,
+O,a
+O,daughter
+O,of
+PERSON,robert s. mcnamara
+O,of
+LOCATION,washington
+O,and
+O,the
+O,late
+PERSON,margaret mcnamara
+O,,
+O,was
+O,married
+O,yesterday
+O,to
+PERSON,john stephen spears
+O,,
+O,a
+O,son
+O,of
+O,the
+O,late
+O,mr.
+O,and
+O,mrs.
+PERSON,arthur john spears
+O,of
+LOCATION,shrewsbury
+O,,
+LOCATION,shropshire
+O,,
+LOCATION,england
+O,.
+O,the
+O,rev.
+PERSON,greg anderson
+O,performed
+O,a
+O,christian
+O,service
+O,at
+O,the
+LOCATION,prince of peace chapel
+O,in
+LOCATION,aspen
+O,,
+PERSON,kathleen mcnamara
+O,,
+O,a
+O,daughter
+O,of
+PERSON,robert s. mcnamara
+O,of
+LOCATION,washington
+O,and
+O,the
+O,late
+PERSON,margaret mcnamara
+O,,
+O,was
+O,married
+O,yesterday
+O,to
+PERSON,john stephen spears
+O,,
+O,a
+O,son
+O,of
+O,the
+O,late
+O,mr.
+O,and
+O,mrs.
+PERSON,arthur john spears
+O,of
+LOCATION,shrewsbury
+O,,
+LOCATION,shropshire
+O,,
+LOCATION,england
+O,.
+O,the
+O,rev.
+PERSON,greg anderson
+O,performed
+O,a
+O,christian
+O,service
+O,at
+O,the
+LOCATION,prince of peace chapel
+O,in
+LOCATION,aspen
+O,,
+O,colo.the
+O,bride
+O,,
+O,a
+O,graduate
+O,of
+O,the
+ORGANIZATION,sidwell friends school
+O,and
+ORGANIZATION,chatham college
+O,,
+O,received
+O,a
+O,master
+O,'s
+O,degree
+O,in
+O,forest
+O,sciences
+O,from
+O,the
+ORGANIZATION,yale school of forest and environmental studies
+O,.
+O,she
+O,is
+O,a
+O,forester
+O,with
+O,the
+ORGANIZATION,world bank
+O,in
+LOCATION,washington
+O,,
+O,where
+O,her
+O,husband
+O,is
+O,a
+O,senior
+O,forestry
+O,adviser.her
+O,father
+O,,
+O,a
+O,former
+O,president
+O,of
+O,the
+ORGANIZATION,ford motor company
+O,,
+O,was
+O,the
+O,secretary
+O,of
+ORGANIZATION,defense
+O,under
+O,presidents
+PERSON,john f. kennedy
+O,and
+PERSON,lyndon b. johnson
+O,and
+O,president
+O,of
+O,the
+ORGANIZATION,world bank
+O,for
+O,13
+O,years
+O,until
+O,his
+O,retirement
+O,in
+O,1981
+O,.
+O,he
+O,is
+O,the
+O,author
+O,of
+O,the
+O,recently
+O,published
+O,book
+O,''
+O,blundering
+O,into
+O,disaster
+O,:
+O,surviving
+O,the
+O,first
+O,century
+O,of
+O,the
+O,nuclear
+O,age
+O,,
+O,''
+O,published
+O,by
+O,pantheon
+O,books.mr
+O,.
+PERSON,spears
+O,graduated
+O,from
+O,the
+ORGANIZATION,university of wales
+O,,
+O,studied
+O,at
+ORGANIZATION,oxford university
+O,and
+O,received
+O,a
+O,master
+O,'s
+O,degree
+O,in
+O,forestry
+O,economics
+O,from
+O,the
+ORGANIZATION,university of british columbia
+O,.
+O,his
+O,father
+O,served
+O,as
+O,an
+O,inspector
+O,of
+O,local
+O,schools
+O,after
+O,his
+O,retirement
+O,as
+O,a
+O,colonel
+O,in
+O,the
+ORGANIZATION,british army
+O,.

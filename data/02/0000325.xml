@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ONE YEAR LATER, A SECOND CHANCE</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="325"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COLLEGE ATHLETICS</classifier>
+        <classifier class="indexing_service" type="descriptor">BOWL GAMES</classifier>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/College Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bowl Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3D81E3EF931A35752C0A961948260" item-length="582" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ONE YEAR LATER, A SECOND CHANCE</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM MORAN, Special to the New York Times</byline>
+      <dateline>PHOENIX, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: They have seen the future, and the view has not always been pretty.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: They have seen the future, and the view has not always been pretty.</p>
+        <p>They have seen the future, and the view has not always been pretty.</p>
+        <p>As they approached the climax of an unprecedented month of buildup to a game that should produce an indisputable winner of the college football polls, the teams from the top-rated University of Miami and second-ranked Penn State had one extra day to consider the business of a trip that is worth $2.4 million to each school.</p>
+        <p>The Hurricanes (11-0) and the Nittany Lions (11-0), the only undefeated teams in Division I-A of the National Collegiate Athletic Association, will compete in the Fiesta Bowl for a championship that is not officially recognized by the N.C.A.A. and yet has ballooned into higher education's version of the Super Bowl. Season of Controversy</p>
+        <p>At the end of another season of nationwide controversy involving accusations of academic abuses, outcries for reforms, the introduction of drug-testing for bowl-game participants and instances of misconduct by players, the Canes and Lions will meet in the desert dusk, surrounded by a sellout crowd at 70,021-seat Sun Devil Stadium in nearby Tempe.</p>
+        <p>A prime-time audience for the national telecast on NBC, with the kickoff scheduled for 8:15 P.M. Eastern standard time, could grow as large as 70 million. And that audience will expect to see the determination of a championship of the nation's major colleges, and presumably - with the introduction of testing for 84 banned or restricted substances - of the drug-free football world.</p>
+        <p>Beneath the emotional frenzy, which has contributed to name-calling, charges and denials this week, can be found the essence of this Fiesta Bowl, a 16-year-old event that did not exist when the outstanding Penn State teams of the late 1960's were omitted from the top of the news-agency polls. Bad Memories</p>
+        <p>The matchup of two unbeaten independents, who could come together because they were not bound by agreements that send conference champions to specific games, provides a rare opportunity for two experienced, balanced and extraordinarily talented teams to erase the memory of humiliations they suffered simultaneously last New Year's night.</p>
+        <p>Penn State, which was ranked No. 1 going into the Orange Bowl, committed uncharacteristic breakdowns in a 25-10 loss to Oklahoma. John Shaffer, the unspectacular but nearly always efficient quarterback, threw three interceptions that contributed to the undoing of a defensive effort that had created serious problems for the Sooners.</p>
+        <p>''We walked off that field feeling we were better physically than Oklahoma,'' said Joe Paterno, the Penn State coach. ''We didn't play well. We kicked the ball around. We felt there were a couple of points when we had Oklahoma hanging on. I think that game has had a tremendous bearing on the attitude of this squad.''</p>
+        <p>The nature of the loss turned the 1986 season into a continuation of the process. And while Miami's experience at the Sugar Bowl was more shocking, the 35-7 loss to Tennessee that ended any Miami hope of a top ranking last year led to a determined approach to the season that ends Friday evening. The Showdown</p>
+        <p>Comparing the regular seasons of the nation's top two college football teams.</p>
+        <p>Miami</p>
+        <p>Penn State</p>
+        <p>11-0</p>
+        <p>Record</p>
+        <p>11-0</p>
+        <p>754</p>
+        <p>Offensive Plays</p>
+        <p>819</p>
+        <p>4,534</p>
+        <p>Total Yards</p>
+        <p>4,384</p>
+        <p>3,095</p>
+        <p>Passing Yards</p>
+        <p>1,737</p>
+        <p>1,439</p>
+        <p>Rushing Yards</p>
+        <p>2,647</p>
+        <p>57</p>
+        <p>Touchdowns</p>
+        <p>40</p>
+        <p>420</p>
+        <p>Points</p>
+        <p>326</p>
+        <p>21</p>
+        <p>Interceptions</p>
+        <p>20</p>
+        <p>10</p>
+        <p>Had Intercepted</p>
+        <p>7</p>
+        <p>25</p>
+        <p>Fumbles</p>
+        <p>19</p>
+        <p>10</p>
+        <p>Fumbles Lost</p>
+        <p>10</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,112 @@
+O,lead
+O,:
+O,the
+ORGANIZATION,suncor development company
+O,,
+O,a
+O,unit
+O,of
+ORGANIZATION,azp group inc.
+O,,
+O,said
+O,it
+O,had
+O,bought
+O,the
+O,assets
+O,of
+ORGANIZATION,goodyear farms
+O,,
+LOCATION,litchfield park
+O,from
+O,the
+ORGANIZATION,goodyear tire and rubber company
+O,for
+O,$
+O,221
+O,million
+O,.
+ORGANIZATION,goodyear
+O,said
+O,the
+O,move
+O,was
+O,part
+O,of
+O,its
+O,restructuring
+O,plan.the
+ORGANIZATION,suncor development company
+O,,
+O,a
+O,unit
+O,of
+ORGANIZATION,azp group inc.
+O,,
+O,said
+O,it
+O,had
+O,bought
+O,the
+O,assets
+O,of
+ORGANIZATION,goodyear farms
+O,,
+LOCATION,litchfield park
+O,from
+O,the
+ORGANIZATION,goodyear tire and rubber company
+O,for
+O,$
+O,221
+O,million
+O,.
+ORGANIZATION,goodyear
+O,said
+O,the
+O,move
+O,was
+O,part
+O,of
+O,its
+O,restructuring
+O,plan.the
+O,properties
+O,include
+LOCATION,wigwam resort
+O,,
+O,three
+O,adjacent
+O,golf
+O,courses
+O,and
+O,about
+O,12,000
+O,acres
+O,of
+O,land.suncor
+O,said
+O,the
+O,acquisition
+O,would
+O,be
+O,financed
+O,entirely
+O,by
+O,azp
+O,from
+O,the
+O,sale
+O,of
+O,common
+O,stock
+O,through
+O,the
+O,azp
+O,dividend
+O,reinvestment
+O,plan
+O,and
+O,bank
+O,financing
+O,.

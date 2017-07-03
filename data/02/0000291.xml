@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smoking Curbed in Iowa</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="291"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SMOKING</classifier>
+        <classifier class="indexing_service" type="descriptor">SALES</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="indexing_service" type="descriptor">PUBLIC BUILDINGS</classifier>
+        <location class="indexing_service">IOWA</location>
+        <person class="indexing_service">BRANSTAD, TERRY E (REPR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Smoking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Health Care Policy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Iowa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3D7133EF931A35752C0A961948260" item-length="44" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smoking Curbed in Iowa</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>DES MOINES, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Gov. Terry Branstad signed an executive order Wednesday banning the sale of cigarettes in state government buildings. Mr. Branstad cited what he said was clear evidence that smoking was dangerous even to nonsmokers exposed to smoke from others' cigarettes.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Gov. Terry Branstad signed an executive order Wednesday banning the sale of cigarettes in state government buildings. Mr. Branstad cited what he said was clear evidence that smoking was dangerous even to nonsmokers exposed to smoke from others' cigarettes.</p>
+        <p>Gov. Terry Branstad signed an executive order Wednesday banning the sale of cigarettes in state government buildings. Mr. Branstad cited what he said was clear evidence that smoking was dangerous even to nonsmokers exposed to smoke from others' cigarettes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

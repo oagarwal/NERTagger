@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Soviet Intentions Cited</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="418"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="AFGHANISTAN TO OBSERVE A CEASE-FIRE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CIVIL WAR AND GUERRILLA WARFARE</classifier>
+        <classifier class="indexing_service" type="descriptor">ARMAMENT, DEFENSE AND MILITARY FORCES</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL RELATIONS</classifier>
+        <location class="indexing_service">AFGHANISTAN</location>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS</location>
+        <person class="indexing_service">TAUBMAN, PHILIP</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDB1E31F931A35752C0A961948260" item-length="391" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Soviet Intentions Cited</hl1>
+      </hedline>
+      <byline class="print_byline">By PHILIP TAUBMAN, Special to the New York Times</byline>
+      <byline class="normalized_byline">TAUBMAN, PHILIP</byline>
+      <dateline>MOSCOW, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The temporary cease-fire announced by Mr. Najibullah appears to be part of a Soviet effort to lay the groundwork for an eventual reduction of its military presence there, Western diplomats said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The temporary cease-fire announced by Mr. Najibullah appears to be part of a Soviet effort to lay the groundwork for an eventual reduction of its military presence there, Western diplomats said today.</p>
+        <p>The temporary cease-fire announced by Mr. Najibullah appears to be part of a Soviet effort to lay the groundwork for an eventual reduction of its military presence there, Western diplomats said today.</p>
+        <p>If carried out, the plan for national reconciliation would reduce internal tensions and make Afghanistan's domestic policies more acceptable to Western governments, the diplomats said.</p>
+        <p>Mr. Najibullah told a special meeting of the Central Committee of the Afghan Communist Party on Tuesday that Government forces would begin a cease-fire on Jan. 15 if Western-supported guerrilla forces refrained from attacking, Tass said today.</p>
+        <p>He also encouraged opposition elements, including Moslem clerical leaders, to join the Government and broaden its base of support, according to the Tass report.</p>
+        <p>Western diplomats said Mr. Najibullah, who visited Moscow in December, appeared to be taking the initial steps in a Soviet-inspired plan to give Afghanistan at least the appearance of greater autonomy and democracy. Goal of Troop Reduction</p>
+        <p>Mr. Gorbachev has said the Soviet Union wants to withdraw its forces from Afghanistan. Increased stability in Afghanistan and enhanced credibility for its Government could smooth the way for a reduction of Soviet troops, according to the Western diplomats.</p>
+        <p>Mr. Gorbachev has said a Soviet withdrawal would be contingent on the reduction of outside aid to the guerrillas.</p>
+        <p>Soviet officials and Western diplomats said last month that the presence of more than 100,000 Soviet troops in Afghanistan, while not a serious drain on Soviet resources, was damaging to Moscow's international image and an impediment to Mr. Gorbachev's effort to give Soviet foreign policy a new look.</p>
+        <p>Mr. Gorbachev, who visited India in November, has tried to increase Soviet influence in Asia and the Middle East but has been thwarted to some extent by Moslem anger over the Soviet role against the Moslem guerrillas in Afghanistan.</p>
+        <p>The problem for Moscow, according to the diplomats, is that it cannot accept a pro-Western Government in Kabul, but that such a government would probably take power if Soviet troops were not present.</p>
+        <p>Although there have been reports of progress in the United Nations-sponsored negotiations on Afghanistan, a political settlement appears unlikely in the near future, the diplomats said.</p>
+        <p>AFGHANISTAN TO OBSERVE A CEASE-FIRE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

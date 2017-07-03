@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LUNDINE OPTIMISTIC ABOUT NEW ROLE</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="356"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POLITICS AND GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">LIEUTENANT GOVERNORS (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">INAUGURATIONS</classifier>
+        <location class="indexing_service">NEW YORK STATE</location>
+        <person class="indexing_service">UHLIG, MARK A</person>
+        <person class="indexing_service">LUNDINE, STANLEY N (REPR)</person>
+        <person class="indexing_service">DEL BELLO, ALFRED</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Governors (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0D61731F931A35752C0A961948260" item-length="546" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LUNDINE OPTIMISTIC ABOUT NEW ROLE</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK A. UHLIG, Special to the New York Times</byline>
+      <byline class="normalized_byline">UHLIG, MARK A</byline>
+      <dateline>ALBANY, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: For the first time in two years, New York State has a lieutenant governor.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: For the first time in two years, New York State has a lieutenant governor.</p>
+        <p>For the first time in two years, New York State has a lieutenant governor.</p>
+        <p>Shortly after 1 P.M. today, flanked by his wife and two sons, former Representative Stan Lundine officially assumed an office that has remained vacant since Alfred B. Del Bello resigned in frustration in January 1985.</p>
+        <p>That resignation was perhaps only the most dramatic criticism of a position that some analysts have said should be abolished as unneeded. And Governor Cuomo, who himself served as lieutenant governor for four years under Gov. Hugh L. Carey, at one time spoke forcefully about the job's tendency to become a political backwater.</p>
+        <p>But, to judge from today's ceremony, the state's second-highest elective office has made a comeback. Long Standing Ovation</p>
+        <p>When Mr. Lundine and his family appeared at the rear entrance of the large, modern convention hall, grinning broadly under the glare of television lights, the audience broke out in a long standing ovation, matched only by the reception for Governor Cuomo himself. When he recited the oath of office before Judge Fritz W. Alexander 2d, the new Lieutenant Governor was again greeted by a round of unusually long, enthusiastic applause.</p>
+        <p>It was a sweet moment for Mr. Lundine, who gave up his seat in New York's 34th Congressional District to campaign as Mr. Cuomo's running mate. And Mr. Lundine said he was confident he would be involved as a full partner in the development and implementation of government policy.</p>
+        <p>''I will be working with the Governor on the State of the State message,'' he said, ''and after that we will move almost directly to the budget.''</p>
+        <p>But he said no effort had been made to specify the role he would play. ''I'll be involved in developing all of the policies of the state. And, in terms of implementation, if we feel he can do the best job on a certain issue, he will do it. If I can, I will.'' 'Minding the Store'</p>
+        <p>Mr. Lundine's optimism about his new post was shared by many of his political supporters and former colleagues, who pointed out that the importance of the lieutenant governorship will rise dramatically if Governor Cuomo decides to seek the Presidency in 1988.</p>
+        <p>''My guess is that the Governor is very anxious to have Stan be very meaningful in the day-to-day operations of government, very much like Mondale was under Carter,'' said Representative Thomas J. Downey, a Long Island Democrat who served with Mr. Lundine during the Lieutenant Governor's 10 years in Congress.</p>
+        <p>Noting the Governor's recent announcement that he would make a series of speeches across the country this year, Mr. Downey said: ''I don't think the Governor could travel so much if there weren't somebody he trusted minding the store. Somebody like Lundine gives him the freedom to do more traveling and, hopefully, to be a candidate for national office.''</p>
+        <p>Mr. Lundine and his wife, Sara, sold their house in Washington and moved to Loudonville, outside Albany, only last week. But a crowd of friends and well-wishers was on hand throughout the inaugural festivities. Among them were dozens of visitors from Jamestown, where Mr. Lundine was Mayor from 1970 to 1976, and an enthusiastic contingent from Ohio, which Mrs. Lundine represented as a lobbyist during the family's years in Washington.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

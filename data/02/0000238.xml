@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Service Is a Mask of the Welfare State</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="238"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FEDERAL AID (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <classifier class="indexing_service" type="descriptor">FAMILIES AND FAMILY LIFE</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DC163EF931A35752C0A961948260" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Service Is a Mask of the Welfare State</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>''The Promise of National Service'' (editorial, Dec. 10) describes national service glowingly, as a panacea for disaffected youth and a host of other social problems. Beware the plan that sounds too good to be true; strip away the altruism and behold a monster.</p>
+        <p>National-service programs promise to turn alienated and troublesome young people into useful citizens. At the risk of sounding cynical, I doubt the success rate would be high, not to mention cost-effective. But more frightening and insidious is the message - that social programs would succeed where families have failed.</p>
+        <p>National-service advocates recognize that many 16- to 25-year-olds are adrift, ''beset with purposelessness.'' But will national service help a young person come to grips with the hard choices of those years, like education, training, entry jobs and childbearing, or will they just postpone reality? Will national service ''volunteer'' jobs instill discipline or the work ethic necessary in the job market? If these values have not been learned at home at an early age, will they be inculcated by one year of volunteer service? More cruelly, you say the program will give ''young people a sense that society needs and wants them.'' Can such a promise be delivered? Again, can a social program succeed where a family has failed?</p>
+        <p>National-service advocates would seduce us by painting pictures of wayward youth from a variety of backgrounds living and working together to care for the elderly, for example, or to clean up debris in parks. But these problems might not be so severe if family life played a more central role in society. Sadly, family structure has deteriorated over the decades as personal accountability has slipped away from the individual into the quagmire of social programs.</p>
+        <p>So take the pretty mask off the national-service promise and expose the culprit for what it is - the face of the welfare state - the historical rival of the family. BRENDA W. MCCLEAN  Research Asst., Hoover Institution  on War, Revolution and Peace  Stanford, Calif., Dec. 11, 1986</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

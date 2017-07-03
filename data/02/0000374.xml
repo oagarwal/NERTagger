@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Woman Is Apparently Pushed From Window in Carter Hotel</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="374"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">MANHATTAN (NYC)</location>
+        <object.title class="indexing_service">CARTER HOTEL (NYC)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DB1331F931A35752C0A961948260" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Woman Is Apparently Pushed From Window in Carter Hotel</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A partly clothed woman with her hands tied behind her back was apparently pushed to her death yesterday from a window in a midtown hotel, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A partly clothed woman with her hands tied behind her back was apparently pushed to her death yesterday from a window in a midtown hotel, the police said.</p>
+        <p>A partly clothed woman with her hands tied behind her back was apparently pushed to her death yesterday from a window in a midtown hotel, the police said.</p>
+        <p>The unidentified woman, in her 20's, was discovered at 5:40 A.M. in the rear courtyard of the Carter Hotel, one block west of Times Square, said Officer Edward Kulesa. Homicide detectives investigating the case had not been able to locate any witnesses, but several guests reported hearing loud arguments in room 1604, which was later found to be in disarray, said Officer James Coleman, another police spokesman.</p>
+        <p>Neither the police nor the hotel would disclose who had checked into that room.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

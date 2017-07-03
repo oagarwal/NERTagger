@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>POPE PROCLAIMS A YEAR DEDICATED TO VIRGIN MARY</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="299"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <org class="indexing_service">ROMAN CATHOLIC CHURCH</org>
+        <person class="indexing_service">SURO, ROBERTO</person>
+        <person class="indexing_service">POPE (JOHN PAUL II)</person>
+        <person class="indexing_service">MARY, THE BLESSED VIRGIN, MOTHER OF JESUS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DC103EF931A35752C0A961948260" item-length="471" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>POPE PROCLAIMS A YEAR DEDICATED TO VIRGIN MARY</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT SURO, Special to the New York Times</byline>
+      <byline class="normalized_byline">SURO, ROBERTO</byline>
+      <dateline>ROME, Jan. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Pope John Paul II today proclaimed a special year dedicated to the Virgin Mary that will be observed by Catholics worldwide.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Pope John Paul II today proclaimed a special year dedicated to the Virgin Mary that will be observed by Catholics worldwide.</p>
+        <p>Pope John Paul II today proclaimed a special year dedicated to the Virgin Mary that will be observed by Catholics worldwide.</p>
+        <p>In a homily in a New Year's Day mass at St. Peter's Basilica, the Pope announced that beginning in June a Marian year, the first since 1953-54, would be celebrated as a way of preparing for the beginning of the third millennium of Christianity in the year 2000.</p>
+        <p>A range of devotional and educational activites devoted to the Virgin will be conducted in all Catholic dioceses from June 7, the feast of the Pentecost, until Aug. 15, the feast of the Assumption of Mary.</p>
+        <p>John Paul's surprise announcement came as the Roman Catholic Church observed its World Day of Peace and as the Pope issued a special appeal to kidnappers to free their victims and allow them to return to their families. Announcement Applauded</p>
+        <p>Dressed in glittering gold vestments, John Paul concluded his homily today by saying, ''May 1987 be a year in which humanity finally puts aside the divisions of the past, a year in which, in development and solidarity, each heart seeks peace.''</p>
+        <p>Spontaneous applause from the congregation in St. Peter's greeted the announcement of the special Marian year. Before the year begins, the Pope said he would issue an encyclical, a special pastoral letter addressed to the world's more than 800 million Catholics, that will be dedicated to the Virgin.</p>
+        <p>The proclamation of a Marian year in 1953-54 was to celebrate the 100th anniversary of the proclamation of the dogma of the Immaculate Conception. The church teaches that Mary was born free of original sin, that she conceived Christ by an act of divine intervention and that she was assumed bodily into heaven.</p>
+        <p>The Polish-born Pope has shown a special devotion to the Virgin, often traveling long distances to visit important Marian shrines like Lourdes in France or Fatima in Portugal, where the Virgin is believed to have performed miracles. Bishops Have Been Informed</p>
+        <p>A statement issued by the Vatican today said Catholic bishops around the world had been informed of the Pope's plan for the Marian year.</p>
+        <p>Rather than requesting pilgrimages to Rome, the statement said each diocese would be organizing seminars, charitable projects and religious events centered on Marian shrines during the year.</p>
+        <p>''O Mary, we want you to shine on the horizon of our age as we prepare for the third millennium of the Christian age,'' the Pope said today.</p>
+        <p>John Paul issued a 20-page message on Dec. 11 in honor of the World Day of Peace, in which he begged terrorists to cease using violence to further their political aims even if their goals were just. The message, delivered to governments around the world, also cited the arms race, closed frontiers, third world debt problems and technological advances as threatening world peace.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

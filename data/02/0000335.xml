@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Philip Hofmann Dies; Former Drug Executive</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="335"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">HOFMANN, PHILIP B</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DB1F3EF931A35752C0A961948260" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Philip Hofmann Dies; Former Drug Executive</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Philip B. Hofmann, a former chairman and chief executive officer of Johnson &amp; Johnson, died of a heart attack Tuesday at the Miami Heart Institute in Florida. He was 77 years old and lived in Monmouth Beach, N.J., and Surfside, Fla.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Philip B. Hofmann, a former chairman and chief executive officer of Johnson &amp; Johnson, died of a heart attack Tuesday at the Miami Heart Institute in Florida. He was 77 years old and lived in Monmouth Beach, N.J., and Surfside, Fla.</p>
+        <p>Philip B. Hofmann, a former chairman and chief executive officer of Johnson &amp; Johnson, died of a heart attack Tuesday at the Miami Heart Institute in Florida. He was 77 years old and lived in Monmouth Beach, N.J., and Surfside, Fla.</p>
+        <p>Mr. Hofmann, a towering, cigar-smoking native of Iowa, joined Johnson &amp; Johnson in 1931 as a shipping clerk. In 1963 he became the first non-family member to head the New Jersey-based pharmaceutical concern, succeeding Robert Wood Johnson. He served as chairman and chief executive officer until his retirement in 1974.</p>
+        <p>Mr. Hofmann, a graduate of the University of Pennsylvania's Wharton School of Commerce and Finance, also owned Wycombe House Stud, a thoroughbred horse farm in Reddick, Fla. Among the horses he bred was the sprinter Gold Beauty, winner of a 1982 Eclipse Award. For many years he competed in horse shows, driving a four-horse team and carriage known as a four-in-hand.</p>
+        <p>In 1968, Mr. Hofmann helped set up the Robert Wood Johnson Foundation, one of the nation's largest philanthropic organizations. He served briefly as a commissioner of the Port Authority of New York and New Jersey, resigning because of a disagreement with Gov. Brendan Byrne over mass transportation policy.</p>
+        <p>He is survived by his wife, the former Georgia Felhaber; two daughters, Judy Richter of Bedford, N.Y. and Carol Thompson of Colts Neck, N.J., and two grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

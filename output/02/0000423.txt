@@ -1,0 +1,75 @@
+O,lead
+O,:
+O,*
+PERSON,peter neaman
+O,and
+PERSON,judith smith
+O,have
+O,been
+O,promoted
+O,to
+O,senior
+O,vice
+O,presidents
+O,at
+ORGANIZATION,barnum communications
+O,,
+O,a
+O,marketing
+O,communications
+O,agency
+O,.
+O,*
+PERSON,peter neaman
+O,and
+PERSON,judith smith
+O,have
+O,been
+O,promoted
+O,to
+O,senior
+O,vice
+O,presidents
+O,at
+ORGANIZATION,barnum communications
+O,,
+O,a
+O,marketing
+O,communications
+O,agency
+O,.
+O,*
+PERSON,murdoch magazines
+O,has
+O,promoted
+PERSON,gabriella neurath
+O,to
+O,publisher
+O,at
+ORGANIZATION,european travel and life
+O,and
+O,named
+PERSON,john ballantyne
+O,publisher
+O,of
+O,electronic
+O,products
+O,.
+O,*
+PERSON,john kawula
+O,is
+O,succeeding
+PERSON,howard stumpf
+O,,
+O,who
+O,has
+O,retired
+O,as
+O,president
+O,of
+O,the
+O,point
+O,of
+O,purchase
+O,advertising
+O,institute.advertising

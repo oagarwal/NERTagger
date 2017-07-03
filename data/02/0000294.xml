@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bumpers for President?</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="294"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="WASHINGTON TALK: BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PRESIDENTIAL ELECTION OF 1988</classifier>
+        <classifier class="indexing_service" type="descriptor">PRIMARIES</classifier>
+        <org class="indexing_service">DEMOCRATIC PARTY</org>
+        <person class="indexing_service">KING, WAYNE</person>
+        <person class="indexing_service">WEAVER, WARREN JR</person>
+        <person class="indexing_service">BUMPERS, DALE (SEN)</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DE103EF931A35752C0A961948260" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bumpers for President?</hl1>
+      </hedline>
+      <byline class="print_byline">By WAYNE KING and WARREN WEAVER JR.</byline>
+      <byline class="normalized_byline">KING, WAYNE; WEAVER, WARREN JR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Reports are circulating in Washington that Senator Dale Bumpers of Arkansas will become an active candidate for the 1988 Democratic Presidential nomination within the next few months. One source said the Senator was weighing the formation of an exploratory committee and would make his plans known as early as</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Reports are circulating in Washington that Senator Dale Bumpers of Arkansas will become an active candidate for the 1988 Democratic Presidential nomination within the next few months. One source said the Senator was weighing the formation of an exploratory committee and would make his plans known as early as</p>
+        <p>Reports are circulating in Washington that Senator Dale Bumpers of Arkansas will become an active candidate for the 1988 Democratic Presidential nomination within the next few months. One source said the Senator was weighing the formation of an exploratory committee and would make his plans known as early as March.</p>
+        <p>The Senator's press secretary, D. Matt James, said in response to questions: ''Senator Bumpers has been approached by a number of people about running. He has made absolutely no decision on an exploratory committee at this point. Senator Bumpers has not approached anyone about a candidacy or forming a committee.''</p>
+        <p>In the 1984 Democratic competition, which was ultimately won by Vice President Walter F. Mondale, Mr. Bumpers considered running for several months but announced in April of 1983 that he would not become a candidate. He said he was afraid he would be unable to raise enough money for a credible campaign, particularly in the heavy concentration of early primaries.</p>
+        <p>That concentration will be even heavier in 1988, but it will also include, for the first time, a substantial cluster of Southern primaries. The single cluster of primaries on what politicians call Super Tuesday could on a single day provide a dominant candidate with a quarter of the delegates needed for nomination.</p>
+        <p>Senator Bumpers, who is 61 years old, has something of a record of political upsets. In 1970, as a relatively unknown country lawyer with no experience in politics or government, he was elected Governor of Arkansas, defeating two men who had both held that office before. In 1974 he defeated a 30-year veteran, Senator J. W. Fulbright, in the Arkansas Democratic Senate primary and went on to win 85 percent of the general election vote.</p>
+        <p>WASHINGTON TALK: BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

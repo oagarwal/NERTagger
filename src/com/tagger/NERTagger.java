@@ -87,7 +87,7 @@ public class NERTagger {
 					if(eElement.getAttribute("class").contentEquals("full_text")){
 						NodeList textList = eElement.getElementsByTagName("p");
 						for(int i=0;i< textList.getLength();i++){
-							content += textList.item(i).getTextContent();
+							content = content + " " + textList.item(i).getTextContent();
 						}
 					}
 				}
